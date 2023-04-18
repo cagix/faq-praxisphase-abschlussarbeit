@@ -1,14 +1,7 @@
----
-title: "FAQ: Praxisphase und Bachelorarbeit"
----
+# FAQ: Abschlussarbeit
 
 
-Bachelorarbeit
-==============
-
-
-Worum geht's in der Bachelorarbeit?
------------------------------------
+## Worum geht's in der Bachelorarbeit?
 
 ::: notes
 Die Bachelorarbeit wird in der Prüfungsordnung ([Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10],
@@ -36,8 +29,7 @@ dort §23, §24, §25, §26 und §27) geregelt.
 -   **Umfang**: 3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
 
 
-Wo kann ich meine Bachelorarbeit durchführen?
----------------------------------------------
+## Wo kann ich meine Bachelorarbeit durchführen?
 
 ::: notes
 Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#wo-praxisphase)
@@ -75,8 +67,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#wo-praxisphase)
     -   Bei internen Arbeiten übernimmt dies ein/e Dozent/in aus dem Studiengang (vorher fragen!)
 
 
-Wie finde ich ein Thema und Betreuer?
--------------------------------------
+## Wie finde ich ein Thema und Betreuer?
 
 ::: notes
 Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#finden-praxisstelle)
@@ -93,8 +84,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#finden-praxisstelle)
     die passenden Dozenten rechtzeitig
 
 
-Wie starte ich in meine Bachelorarbeit?
----------------------------------------
+## Wie starte ich in meine Bachelorarbeit?
 
 1.  Kontakt mit möglicher Firma oder Labor oder Forschungsprojekt aufnehmen, ggf. Bewerbungsprozess
     durchlaufen
@@ -165,8 +155,7 @@ das spätestmögliche Abgabedatum.
 :::
 
 
-Welche Termine gibt es während der Bearbeitungszeit?
-----------------------------------------------------
+## Welche Termine gibt es während der Bearbeitungszeit?
 
 Das ist abhängig von Ihren Betreuern. Besprechen Sie dies rechtzeitig mit beiden Prüfern!
 
@@ -174,8 +163,7 @@ Das ist abhängig von Ihren Betreuern. Besprechen Sie dies rechtzeitig mit beide
 über den Stand der Arbeiten zu informieren!
 
 
-Aufbau der Arbeit? Gibt es eine Vorlage?
-----------------------------------------
+## Aufbau der Arbeit? Gibt es eine Vorlage?
 
 -   Anforderungen gemäß [BPO]/[SPO]: Seitenumfang 30 bis 80 Seiten (reine Textseiten)
 
@@ -196,7 +184,7 @@ Aufbau der Arbeit? Gibt es eine Vorlage?
 
     ::: notes
     Die Bachelorarbeit sollte im Stil einer Abschlussarbeit mit entsprechend
-    wissenschaftlichem Anstrich verfast werden: Auf die Ich-Form sollte verzichtet
+    wissenschaftlichem Anstrich verfasst werden: Auf die Ich-Form sollte verzichtet
     werden.
 
     Inhaltlich sollten Sie die üblichen Punkte behandeln:
@@ -230,8 +218,7 @@ Aufbau der Arbeit? Gibt es eine Vorlage?
 **Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Betreuern/Prüfern!
 
 
-Was muss ich hinterher einreichen?
-----------------------------------
+## Was muss ich hinterher einreichen?
 
 Im **Prüfungsamt** müssen Sie Ihre Bachelorarbeit **fristgerecht** [(vor Ablauf der Abgabefrist)]{.notes} einreichen:
 
@@ -256,8 +243,7 @@ und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
 :::
 
 
-Hinweise Sperrvermerk und Source-Code
--------------------------------------
+## Hinweise Sperrvermerk und Source-Code
 
 -   Sensible Unternehmensdaten: Sperrvermerk einfügen (Absprache mit der Firma!)
 
@@ -286,8 +272,7 @@ Hinweise Sperrvermerk und Source-Code
     -   Beispiel: Abgabe als CD in der Arbeit
 
 
-Bekomme ich eine Note?
-----------------------
+## Bekomme ich eine Note?
 
 JA :-)
 
@@ -299,8 +284,7 @@ Sprechen Sie rechtzeitig mit Ihren Betreuern über mögliche individuelle Anford
 :::
 
 
-Was muss ich sonst noch beachten?
----------------------------------
+## Was muss ich sonst noch beachten?
 
 -   Hinweis Start
     -   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden

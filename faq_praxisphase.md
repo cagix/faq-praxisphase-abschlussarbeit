@@ -1,14 +1,6 @@
----
-title: "FAQ: Praxisphase und Bachelorarbeit"
----
+# FAQ: Praxisphase
 
-
-Praxisphase
-===========
-
-
-Worum geht's in der Praxisphase?
---------------------------------
+## Worum geht's in der Praxisphase?
 
 ::: notes
 Die Praxisphase wird in der Prüfungsordnung ([Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10],
@@ -41,8 +33,7 @@ dort §21) geregelt.
     :::
 
 
-Wo kann ich meine Praxisphase durchführen? {#wo-praxisphase}
-------------------------------------------------------------
+## Wo kann ich meine Praxisphase durchführen? {#wo-praxisphase}
 
 -   Extern: Firma
 
@@ -73,8 +64,7 @@ Wo kann ich meine Praxisphase durchführen? {#wo-praxisphase}
 \blueArrow\ **Wichtig**: In jedem Fall wird ein/e Betreuer/in in der FH (Dozent/in) benötigt!
 
 
-Wie finde ich eine Praxisstelle? {#finden-praxisstelle}
--------------------------------------------------------
+## Wie finde ich eine Praxisstelle? {#finden-praxisstelle}
 
 -   Stellenanzeigen (Internet, Zeitungen, [FH-Stellenportal], Schwarze Bretter)
 -   Eigeninitiative, Initiativbewerbung
@@ -83,8 +73,7 @@ Wie finde ich eine Praxisstelle? {#finden-praxisstelle}
     die passenden Dozenten rechtzeitig
 
 
-Details Mint-Mentoring {#detailsmint}
--------------------------------------
+## Details Mint-Mentoring {#detailsmint}
 
 -   Gemeinsames Programm der FH Bielefeld und Firmen in OWL
 -   Betreuung durch einen Mentor
@@ -100,8 +89,7 @@ Details Mint-Mentoring {#detailsmint}
 **Ansprechpartnerin in Minden**: BC George ([bc.george@fh-bielefeld.de](mailto:bc.george@fh-bielefeld.de))
 
 
-Wie starte ich in meine Praxisphase?
-------------------------------------
+## Wie starte ich in meine Praxisphase?
 
 1.  Kontakt mit möglicher Praxisstelle aufnehmen, ggf. Bewerbungsprozess durchlaufen
 
@@ -162,8 +150,7 @@ für den Bericht und das Zeugnis[ (das ist 6 Wochen nach dem Enddatum der Praxis
 :::
 
 
-Was muss ich hinterher abgeben?
--------------------------------
+## Was muss ich hinterher abgeben?
 
 Im **Prüfungsamt** sind [diese beiden Unterlagen]{.notes} innerhalb von **6 Wochen**
 nach Beendigung der Praxisphase einzureichen:
@@ -223,8 +210,7 @@ und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
 :::
 
 
-Bekomme ich eine Note?
-----------------------
+## Bekomme ich eine Note?
 
 NEIN :-)
 
@@ -236,8 +222,7 @@ Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforde
 :::
 
 
-Was muss ich sonst noch beachten?
----------------------------------
+## Was muss ich sonst noch beachten?
 
 -   Eignung der Praxisstelle wird durch FH-Betreuer festgestellt
 

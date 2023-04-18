@@ -1,14 +1,7 @@
----
-title: "FAQ: Praxisphase und Bachelorarbeit"
----
+# FAQ: Nachteilsausgleich
 
 
-Nachteilsausgleich
-==================
-
-
-Antrag auf Nachteilsausgleich {#antrag-nachteilsausgleich}
-----------------------------------------------------------
+## Antrag auf Nachteilsausgleich {#antrag-nachteilsausgleich}
 
 Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben kann auf Antrag
 ein Nachteilsausgleich gewährt werden
