@@ -1,6 +1,5 @@
 from: markdown+lists_without_preceding_blankline+rebase_relative_paths
 
-data-dir: .
 template: https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/master/eisvogel.tex
 
 metadata-file: metadata.yaml
@@ -9,6 +8,7 @@ strip-comments: true
 top-level-division: chapter
 
 toc: true
+toc-depth: 2
 number-sections: true
 
 citeproc: true
@@ -25,6 +25,7 @@ include-in-header:
   - resources/definitions.tex
 
 filters:
-  - prepareSlides.lua
+  - prepareHandout.lua
   - tex.lua
   - citeproc
+  - fhbib.lua

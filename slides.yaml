@@ -1,8 +1,6 @@
 from: markdown+lists_without_preceding_blankline+rebase_relative_paths
 to: beamer
 
-data-dir: .
-
 metadata-file: metadata.yaml
 
 strip-comments: true
