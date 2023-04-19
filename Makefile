@@ -40,8 +40,9 @@ endif
 # Source and target files for book and slides
 #--------------------------------------------------------------------------------
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
-SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=%.pdf)
-BOOK_Target      = IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
+SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
+BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
+OUTPUT_DIR       = pdf
 
 
 #--------------------------------------------------------------------------------
@@ -63,21 +64,24 @@ runlocal: ## Start Docker container "pandoc-lecture" into interactive shell
 all: slides book ## Make everything
 
 .PHONY: slides
-slides: $(SLIDES_TARGETS) ## Create all slides
+slides: $(OUTPUT_DIR) $(SLIDES_TARGETS) ## Create all slides
 
 .PHONY: book
-book: $(BOOK_Target) ## Create a book
+book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
 
 
 .PHONY: clean
 clean: ## Clean up intermediate files and directories
-	rm -rf $(SLIDES_TARGETS) $(BOOK_Target)
+	rm -rf $(SLIDES_TARGETS) $(BOOK_Target) $(OUTPUT_DIR)
 
 
 #--------------------------------------------------------------------------------
 # Internal targets
 #--------------------------------------------------------------------------------
-$(SLIDES_TARGETS): %.pdf: %.md
+$(OUTPUT_DIR):
+	mkdir -p $@
+
+$(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md
 	$(PANDOC) $(PANDOC_DIRS) -d ./slides $< -o $@
 
 $(BOOK_Target): $(MARKDOWN_SOURCES)
