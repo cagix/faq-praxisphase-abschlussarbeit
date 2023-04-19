@@ -25,6 +25,7 @@ include-in-header:
   - resources/definitions.tex
 
 filters:
+  - title2h1.lua
   - prepareHandout.lua
   - tex.lua
   - citeproc
