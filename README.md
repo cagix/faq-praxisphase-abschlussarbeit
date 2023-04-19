@@ -2,30 +2,28 @@
 
 ## Überblick Prozess Praxisphase
 
-![Überblick Prozess Praxisphase](fig/screenshot_prozess_praxisphase.png)
-[Quelle: ursprünglicher Entwurf von Jörn Steinhauer, weiterentwickelt von Christiane Seele (Prüfungsamt Informatik, Minden), neu gezeichnet und weiterentwickelt [Carsten Gips](https://github.com/cagix)]{.origin}
+![Überblick Prozess Praxisphase; Quelle: ursprünglicher Entwurf von Jörn Steinhauer, weiterentwickelt von Christiane Seele (Prüfungsamt Informatik, Minden), neu gezeichnet und weiterentwickelt [Carsten Gips](https://github.com/cagix)](img/screenshot_prozess_praxisphase.png)
 
 ## Überblick Prozess Bachelorarbeit
 
-![Überblick Prozess Bachelorarbeit](fig/screenshot_prozess_bachelorarbeit.png)
+![Überblick Prozess Bachelorarbeit](img/screenshot_prozess_bachelorarbeit.png)
 
 ## Wichtige Dokumente und Anträge
 
 Sie finden die wichtigsten Dokumente und Anträge auf der FH-Webseite unter
-[Ordnungen und weitere Dokumente].
+[Ordnungen und weitere Dokumente](https://www.fh-bielefeld.de/studiengaenge/downloads/informatik-bachelor).
 
 ## Weitere Bemerkungen
 
-Dieses Dokument soll Ihnen die wichtigsten Fragen rund um die Praxisphase und
-die Bachelorarbeit beantworten. Im Interesse der leichteren Lesbarkeit und
-Verständlichkeit wurden einige Vereinfachungen vorgenommen:
+Dieses Dokument soll Ihnen die wichtigsten Fragen rund um die Praxisphase und die Bachelorarbeit
+beantworten. Im Interesse der leichteren Lesbarkeit und Verständlichkeit wurden einige
+Vereinfachungen vorgenommen:
 
 -   Das "Prüfungsamt" ist neuerdings als "Studierendenservice" bekannt.
--   In der vorliegenden ersten Version dieses Studiengang-internen Dokuments
-    wurde zunächst der Fokus auf die Inhalte und die Lesbarkeit/Verständlichkeit
-    gelegt. Natürlich sollen ALLE angesprochen werden, d.h. mit "Betreuer" sind
-    auch Betreuerinnen gemeint, mit "Prüfer" auch alle Prüferinnen, mit "Dozent"
-    auch alle Dozentinnen, ...
+-   In der vorliegenden ersten Version dieses Studiengang-internen Dokuments wurde zunächst der
+    Fokus auf die Inhalte und die Lesbarkeit/Verständlichkeit gelegt. Natürlich sollen ALLE
+    angesprochen werden, d.h. mit "Betreuer" sind auch Betreuerinnen gemeint, mit "Prüfer" auch
+    alle Prüferinnen, mit "Dozent" auch alle Dozentinnen, ...
 
 ## Erklärvideo
 
@@ -37,10 +35,9 @@ Verständlichkeit wurden einige Vereinfachungen vorgenommen:
 -   Beiträge:
     -   Christiane Seele (Abbildung Prozess Praxisphase, Reviews)
     -   [BC George](https://github.com/bcg7) (Reviews)
-    -   Matthias König (Reviews, URL FH-Stellenportal, Hinweis BA baut üblicherweise auf Praxisphase auf)
-    -   Angela Kreienkamp (Word-Version)
-
----
+    -   Matthias König (Reviews, URL FH-Stellenportal, Hinweis BA baut üblicherweise auf
+        Praxisphase auf)
+    -   [Angela Kreienkamp](https://github.com/kreienkamp) (Word-Version)
 
 ## License
 

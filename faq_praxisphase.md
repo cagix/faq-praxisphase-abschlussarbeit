@@ -2,29 +2,29 @@
 title: "FAQ: Praxisphase"
 ---
 
-
 ::: notes
 # FAQ: Praxisphase
 :::
 
-
 ## Worum geht's in der Praxisphase?
 
 ::: notes
-Die Praxisphase wird in der Prüfungsordnung ([Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10],
-dort §24, §25, §26, bzw. [Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)],
-dort §21) geregelt.
+Die Praxisphase wird in der Prüfungsordnung ([Prüfungsordnung und Modulhandbuch Bachelor
+Informatik Version 10], dort §24, §25, §26, bzw. [Studiengangsprüfungsordnung und
+Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §21) geregelt.
 :::
 
--   **Ziel**: Kennenlernen der beruflichen Praxis eines Informatikers durch konkrete Aufgabenstellungen und praktische
-    Mitarbeit, Anwendung der im bisherigen Studium erworbenen Kenntnisse und Fähigkeiten
+-   **Ziel**: Kennenlernen der beruflichen Praxis eines Informatikers durch konkrete
+    Aufgabenstellungen und praktische Mitarbeit, Anwendung der im bisherigen Studium erworbenen
+    Kenntnisse und Fähigkeiten
 
     ::: notes
-    In §24 (2) der [BPO] heisst es hier konkret: "Das Praxisprojekt soll die Studierenden an die berufliche Tätigkeit
-    durch konkrete Aufgabenstellungen und praktische Mitarbeit heranführen, die mit den Zielen und Inhalten des
-    Studienganges in einem fachlichen Zusammenhang stehen. Es soll insbesondere dazu dienen, die im bisherigen Studium
-    erworbenen Kenntnisse und Fähigkeiten anzuwenden und die bei der praktischen Tätigkeit gemachten Erfahrungen
-    zu reflektieren und auszuwerten."
+    In §24 (2) der [BPO] heisst es hier konkret: "_Das Praxisprojekt soll die Studierenden an
+    die berufliche Tätigkeit durch konkrete Aufgabenstellungen und praktische Mitarbeit
+    heranführen, die mit den Zielen und Inhalten des Studienganges in einem fachlichen
+    Zusammenhang stehen. Es soll insbesondere dazu dienen, die im bisherigen Studium erworbenen
+    Kenntnisse und Fähigkeiten anzuwenden und die bei der praktischen Tätigkeit gemachten
+    Erfahrungen zu reflektieren und auszuwerten._"
     :::
 
 \smallskip
@@ -39,7 +39,6 @@ dort §21) geregelt.
     Sie lernen in der Praxisphase die Firma oder das Projekt genauer kennen und können dabei
     gemeinsam mit den Betreuern die Bachelorarbeit thematisch eingrenzen.
     :::
-
 
 ## Wo kann ich meine Praxisphase durchführen? {#wo-praxisphase}
 
@@ -63,23 +62,22 @@ dort §21) geregelt.
 -   Intern: Labor, Forschungsprojekt, o.ä.
 
     ::: notes
-    In selteneren Fällen wird die Praxisphase FH-intern in einem Labor oder einem Forschungsprojekt
-    durchgeführt. Dabei entfällt in der Regel eine Entlohnung, da hierfür keine Mittel bereitstehen.
+    In selteneren Fällen wird die Praxisphase FH-intern in einem Labor oder einem
+    Forschungsprojekt durchgeführt. Dabei entfällt in der Regel eine Entlohnung, da hierfür
+    keine Mittel bereitstehen.
     :::
 
 \bigskip
 
-\blueArrow\ **Wichtig**: In jedem Fall wird ein/e Betreuer/in in der FH (Dozent/in) benötigt!
-
+=> **Wichtig**: In jedem Fall wird ein/e Betreuer/in in der FH (Dozent/in) benötigt!
 
 ## Wie finde ich eine Praxisstelle? {#finden-praxisstelle}
 
 -   Stellenanzeigen (Internet, Zeitungen, [FH-Stellenportal], Schwarze Bretter)
 -   Eigeninitiative, Initiativbewerbung
 -   [Mint-Mentoring] ([Details siehe nächste Folie](#detailsmint))
--   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und fragen Sie
-    die passenden Dozenten rechtzeitig
-
+-   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und fragen Sie die
+    passenden Dozenten rechtzeitig
 
 ## Details Mint-Mentoring {#detailsmint}
 
@@ -87,15 +85,9 @@ dort §21) geregelt.
 -   Betreuung durch einen Mentor
 -   Regelmäßige Workshops und "Marktplätze" zum gegenseitigen Kennenlernen (Firmen, Studierende)
 
-::: notes
-![Infoblatt Mint-Mentoring für Studierende](fig/screenshot_mintmentoring_studierende)\
-[Quelle: [Infoblatt Mint-Mentoring für Studierende], Abruf 05.08.2020]{.origin}
-:::
-
 \bigskip
 
-**Ansprechpartnerin in Minden**: BC George ([bc.george@fh-bielefeld.de](mailto:bc.george@fh-bielefeld.de))
-
+**Ansprechpartnerin in Minden**: BC George (<bc.george@fh-bielefeld.de>)
 
 ## Wie starte ich in meine Praxisphase?
 
@@ -110,9 +102,10 @@ dort §21) geregelt.
 
 3.  [Antrag auf Zulassung zu Praxisphase] ausfüllen (als PDF), ausdrucken, Unterschriften
     einholen und im Prüfungsamt abgeben
+
     -   Sie müssen das Start- und Enddatum der Praxisphase selbst angeben.
-        [**Voraussetzung: Der Antrag geht rechtzeitig im Prüfungsamt ein, spätestens 2
-        Wochen vor dem geplanten Start**.]{.notes}
+        [**Voraussetzung: Der Antrag geht rechtzeitig im Prüfungsamt ein, spätestens 2 Wochen
+        vor dem geplanten Start**.]{.notes}
         [Beachten Sie dabei die Mindestdauer von 13 Wochen (450h Arbeitszeit)!]{.notes}
     -   Das Abgabedatum für den Praxisphasenbericht/Zeugnis [der Praxisstelle]{.notes}
         [(6 Wochen nach Enddatum der Praxisphase)]{.notes} wird vom Prüfungsamt berechnet.
@@ -120,48 +113,45 @@ dort §21) geregelt.
 
     \smallskip
 
-    [**Abweichende Regelungen wg. Corona**]{.alert}: Antrag per Mail (PDF) an Erstprüfer
+    **Abweichende Regelungen wg. Corona**: Antrag per Mail (PDF) an Erstprüfer
 
     ::: notes
-    :::::: {style="background-color:#ff9800;opacity:0.80;padding:1px"}
     Sie füllen den Antrag am Rechner aus (als PDF) und holen *nach Möglichkeit* die
-    Unterschriften ein. Wenn dies wg. Corona nicht möglich ist, kann der Antrag auch
-    ohne die Unterschriften gestellt werden.
+    Unterschriften ein. Wenn dies wg. Corona nicht möglich ist, kann der Antrag auch ohne die
+    Unterschriften gestellt werden.
 
-    Sie schicken Ihrem FH-internen Betreuer den Antrag per E-Mail (als PDF) zu, dieser
-    leitet den Antrag per E-Mail an das Prüfungsamt weiter, CC: an Sie und den Betreuer
-    in der Firma. Der Firmenbetreuer muss dem Prüfungsamt die Praxisphase in der Firma
-    kurz per E-Mail bestätigen.
+    Sie schicken Ihrem FH-internen Betreuer den Antrag per E-Mail (als PDF) zu, dieser leitet
+    den Antrag per E-Mail an das Prüfungsamt weiter, CC: an Sie und den Betreuer in der Firma.
+    Der Firmenbetreuer muss dem Prüfungsamt die Praxisphase in der Firma kurz per E-Mail
+    bestätigen.
 
     Bitte senden Sie Ihrem FH-internen Betreuer dazu die Kontaktdaten des Firmenbetreuers.
 
-    **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter [Covid-19: Informationen für Studierende]
-    und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
-    ::::::
+    **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
+    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren FH-internen
+    Betreuer/Prüfer.
     :::
 
 \bigskip
 
-**Hinweis**: Es gibt keine weiteren Briefe oder Mails. Wenn der Antrag angenommen ist,
-beginnt die Praxisphase an dem im Antrag genannten Datum. Sie sehen im LSF das Abgabedatum
-für den Bericht und das Zeugnis[ (das ist 6 Wochen nach dem Enddatum der Praxisphase!)]{.notes}.
+**Hinweis**: Es gibt keine weiteren Briefe oder Mails. Wenn der Antrag angenommen ist, beginnt
+die Praxisphase an dem im Antrag genannten Datum. Sie sehen im LSF das Abgabedatum für den
+Bericht und das Zeugnis[(das ist 6 Wochen nach dem Enddatum der Praxisphase!)]{.notes}.
 [Bei Ablehnung des Antrags erhalten Sie einen Brief vom Prüfungsamt.]{.notes}
-
 
 ::: notes
 ## Voraussetzungen für die Anmeldung zur Praxisphase
 
 -   Sie haben mind. 110 cps erreicht (Fortschrittsregelung)
--   Sie haben eine Person aus dem Kreis der Dozenten im Studiengang gefunden, die
-    bereit ist, Ihre Praxisphase zu betreuen ("FH-interner Betreuer")
+-   Sie haben eine Person aus dem Kreis der Dozenten im Studiengang gefunden, die bereit ist,
+    Ihre Praxisphase zu betreuen ("FH-interner Betreuer")
 -   Die Praxisstelle ist geeignet (Prüfung durch den FH-internen Betreuer)
 :::
 
-
 ## Was muss ich hinterher abgeben?
 
-Im **Prüfungsamt** sind [diese beiden Unterlagen]{.notes} innerhalb von **6 Wochen**
-nach Beendigung der Praxisphase einzureichen:
+Im **Prüfungsamt** sind [diese beiden Unterlagen]{.notes} innerhalb von **6 Wochen** nach
+Beendigung der Praxisphase einzureichen:
 
 1.  Schriftlicher Bericht
     -   Umfang 13 bis 20 Seiten (reine Textseiten)
@@ -169,24 +159,24 @@ nach Beendigung der Praxisphase einzureichen:
         ::: notes
         Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier nicht mit.
 
-        Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder
-        und Zeilenabstände. Sprechen Sie dies mit Ihrem FH-internen Betreuer ab!
+        Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
+        Sprechen Sie dies mit Ihrem FH-internen Betreuer ab!
         :::
 
     -   Inhalt und Aufbau: Im Stil einer Abschlussarbeit
 
         ::: notes
-        Berichten Sie über Ihre Tätigkeiten während der Praxisphase. Ein Außenstehender
-        mit Informatikkenntnissen (d.h. Ihr FH-interner Betreuer) soll dies nachvollziehen
-        können.
+        Berichten Sie über Ihre Tätigkeiten während der Praxisphase. Ein Außenstehender mit
+        Informatikkenntnissen (d.h. Ihr FH-interner Betreuer) soll dies nachvollziehen können.
 
-        Der Bericht soll auf die Bachelorarbeit vorbereiten, daher sollten Sie im Stil
-        einer Abschlussarbeit mit entsprechend wissenschaftlichem  Anstrich schreiben:
-        Auf die Ich-Form sollte verzichtet werden.
+        Der Bericht soll auf die Bachelorarbeit vorbereiten, daher sollten Sie im Stil einer
+        Abschlussarbeit mit entsprechend wissenschaftlichem Anstrich schreiben: Auf die Ich-Form
+        sollte verzichtet werden.
 
         Inhaltlich sollten Sie die üblichen Punkte behandeln:
         -   Einleitung: u.a. Beschreibung der Aufgabe(n) und (Unternehmens-) Umfeld
-        -   Hauptteil zur Erläuterung der Tätigkeit: Problem, Techniken, Lösungsansatz und Umsetzung
+        -   Hauptteil zur Erläuterung der Tätigkeit: Problem, Techniken, Lösungsansatz und
+            Umsetzung
         -   Zusammenfassung/Resümee
         -   Quellen (vgl. auch Fachseminar)
         :::
@@ -204,19 +194,16 @@ nach Beendigung der Praxisphase einzureichen:
 
 \smallskip
 
-[**Abweichende Regelungen wg. Corona**]{.alert}: [Upload PDF][Einreichung von schriftlichen Arbeiten]
+**Abweichende Regelungen wg. Corona**: [Upload PDF], [Einreichung von schriftlichen Arbeiten]
 
 ::: notes
-:::::: {style="background-color:#ff9800;opacity:0.80;padding:1px"}
-Sie drucken den Bericht und das Zeugnis **nicht** aus, sondern reichen beides als PDF
-digital über die FH-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Das Zeugnis
-sollte nach Möglichkeit die Unterschrift der Firma tragen.
+Sie drucken den Bericht und das Zeugnis **nicht** aus, sondern reichen beides als PDF digital
+über die FH-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Das Zeugnis sollte nach
+Möglichkeit die Unterschrift der Firma tragen.
 
-**Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter [Covid-19: Informationen für Studierende]
-und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
-::::::
+**Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter [Covid-19: Informationen für
+Studierende] und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
 :::
-
 
 ## Bekomme ich eine Note?
 
@@ -228,7 +215,6 @@ bescheinigt bzw. nicht bescheinigt.
 
 Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforderungen.
 :::
-
 
 ## Was muss ich sonst noch beachten?
 
@@ -249,12 +235,12 @@ Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforde
     Bei Ergebnissen aus dem Unternehmen, die in den Bericht gehören, aber nicht veröffentlicht
     werden sollen, fügen Sie dem Bericht einen "Sperrvermerk" an.
 
-    Fügen Sie dazu den folgenden Text auf der Seite direkt nach dem Titelblatt mit entsprechenden
-    Änderungen ein: "Dieser Bericht enthält vertrauliche Daten der Firma XYZ (Name des Unternehmens).
-    Veröffentlichungen oder Vervielfältigungen der Arbeit -- auch nur auszugsweise -- sind ohne
-    ausdrückliche Genehmigung der beteiligten Unternehmen nicht gestattet. Die Arbeit ist nur
-    den Prüfern bzw. den Korrektoren sowie den Mitgliedern des Prüfungsausschusses bzw. der oder
-    dem Prüfungsbeauftragten zugänglich zu machen".
+    Fügen Sie dazu den folgenden Text auf der Seite direkt nach dem Titelblatt mit
+    entsprechenden Änderungen ein: "Dieser Bericht enthält vertrauliche Daten der Firma XYZ
+    (Name des Unternehmens). Veröffentlichungen oder Vervielfältigungen der Arbeit -- auch nur
+    auszugsweise -- sind ohne ausdrückliche Genehmigung der beteiligten Unternehmen nicht
+    gestattet. Die Arbeit ist nur den Prüfern bzw. den Korrektoren sowie den Mitgliedern des
+    Prüfungsausschusses bzw. der oder dem Prüfungsbeauftragten zugänglich zu machen".
 
     Sprechen Sie die Notwendigkeit eines solchen Sperrvermerks rechtzeitig mit Ihrer
     Praxisstelle/Unternehmen ab!
@@ -263,34 +249,36 @@ Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforde
 \smallskip
 
 -   Hinweis auf Nachteilsausgleich bei Einschränkungen durch gesundheitliche Probleme oder
-    Familienaufgaben: Siehe [Folien zum Nachteilsausgleich](#antrag-nachteilsausgleich)
-
-
-
-
-# Literatur zum Weiterlesen {.bib}
-
-<div id="refs" class="references">
-<!-- XXX Platzhalter für Literaturliste (References/Bibliography) -->
-</div>
-:::
-
-
-
-
+    Familienaufgaben: Siehe [FAQ zum Nachteilsausgleich](faq_nachteilsausgleich.md).
 
 ::: slides
-# Viel Erfolg :-)
+* * * * *
+**Viel Erfolg :-)**
 :::
 
 
 
 
+[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-::: notes
-- - - - - - - - - - -
+[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
 
-*Stand: 28.09.2020*
+[BPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-Quellen: [git01-ifm-min.ad.fh-bielefeld.de/cagix/faq-praxisphase-bachelorarbeit]
-:::
+[SPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+
+[FH-Stellenportal]: https://www.fh-bielefeld.de/stellenportal
+
+[Mint-Mentoring]: https://www.owl-maschinenbau.de/kooperationen/mint-mentoring/
+
+[Antrag auf Zulassung zu Praxisphase]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zu+Praxisphase+und+Auslandssemester.pdf
+
+[Praxisphasebescheinigung]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+Praxisphasebescheinigung+%28Kurzform%29.pdf
+
+[Covid-19: Informationen für Studierende]: https://www.fh-bielefeld.de/hochschule/aktuelles/informationen-covid19-studierende
+
+[Vorlage für Abschlussarbeiten]: https://github.com/cagix/pandoc-thesis
+
+[Upload PDF]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
+
+[Einreichung von schriftlichen Arbeiten]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
