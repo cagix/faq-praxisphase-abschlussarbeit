@@ -2,10 +2,6 @@
 title: "FAQ: Abschlussarbeit"
 ---
 
-::: notes
-# FAQ: Abschlussarbeit
-:::
-
 ## Worum geht's in der Bachelorarbeit?
 
 ::: notes
