@@ -3,8 +3,8 @@
 ## (a) You can use the toolchain installed in the Docker image "pandoc-lecture",
 ##     which comes ready to use (no other dependencies).
 ## (b) Alternatively, you need to
-##         (1) install all tools (Pandoc, Hugo, TexLive) manually to your
-##             operating system, and
+##         (1) install all tools (Pandoc, TexLive) manually to your operating
+##             system, and
 ##         (2) clone the pandoc-lecture repo locally to a specific location:
 ##             "git clone --depth 1 https://github.com/cagix/pandoc-lecture.git ${HOME}/.local/share/pandoc/".
 ##
