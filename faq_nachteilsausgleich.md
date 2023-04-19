@@ -1,4 +1,11 @@
+---
+title: "FAQ: Nachteilsausgleich"
+---
+
+
+::: notes
 # FAQ: Nachteilsausgleich
+:::
 
 
 ## Antrag auf Nachteilsausgleich {#antrag-nachteilsausgleich}
