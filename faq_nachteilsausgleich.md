@@ -2,10 +2,6 @@
 title: "FAQ: Nachteilsausgleich"
 ---
 
-::: notes
-# FAQ: Nachteilsausgleich
-:::
-
 ## Antrag auf Nachteilsausgleich
 
 Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben kann auf Antrag ein

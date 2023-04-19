@@ -27,5 +27,3 @@ include-in-header:
 filters:
   - prepareHandout.lua
   - tex.lua
-  - citeproc
-  - fhbib.lua

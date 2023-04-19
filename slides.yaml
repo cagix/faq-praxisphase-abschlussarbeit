@@ -28,4 +28,3 @@ include-in-header:
 filters:
   - prepareSlides.lua
   - tex.lua
-  - citeproc

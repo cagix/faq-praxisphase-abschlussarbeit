@@ -41,6 +41,7 @@ endif
 #--------------------------------------------------------------------------------
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
 SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
+TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
 BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 LICENSE_SLIDE    = .license_slide.md
 OUTPUT_DIR       = pdf
@@ -72,7 +73,11 @@ book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
 
 
 .PHONY: clean
-clean: ## Clean up intermediate files and directories
+clean: ## Clean up intermediate files
+	rm -rf $(TMP_FILES)
+
+.PHONY: distclean
+distclean: clean ## Clean up intermediate files and generated artifacts
 	rm -rf $(SLIDES_TARGETS) $(BOOK_Target) $(OUTPUT_DIR)
 
 
@@ -85,5 +90,8 @@ $(OUTPUT_DIR):
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
 
-$(BOOK_Target): $(MARKDOWN_SOURCES) $(LICENSE_SLIDE)
+$(BOOK_Target): $(TMP_FILES) $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
+
+$(TMP_FILES): __%.md: %.md
+	$(PANDOC) $(PANDOC_DIRS) -L title2h1.lua -s $< -o $@
