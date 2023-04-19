@@ -42,6 +42,7 @@ endif
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
 SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
+LICENSE_SLIDE    = .license_slide.md
 OUTPUT_DIR       = pdf
 
 
@@ -81,8 +82,8 @@ clean: ## Clean up intermediate files and directories
 $(OUTPUT_DIR):
 	mkdir -p $@
 
-$(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md
-	$(PANDOC) $(PANDOC_DIRS) -d ./slides $< -o $@
+$(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
+	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
 
-$(BOOK_Target): $(MARKDOWN_SOURCES)
+$(BOOK_Target): $(MARKDOWN_SOURCES) $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
