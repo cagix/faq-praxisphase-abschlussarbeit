@@ -40,12 +40,15 @@ endif
 # Source and target files for book and slides
 #--------------------------------------------------------------------------------
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
+GFM_IMAGES		 = $(shell find $(IMG_DIR) -type f -iname '*.png')
 LICENSE_SLIDE    = .license_slide.md
+IMG_DIR          = img
 OUTPUT_DIR       = docs
 
 TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
 SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 GFM_TARGETS      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.md)
+GFM_IMG_TARGETS  = $(GFM_IMAGES:$(IMG_DIR)/%.png=$(OUTPUT_DIR)/$(IMG_DIR)/%.png)
 BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 
 
@@ -71,7 +74,7 @@ all: slides gfm book ## Make everything
 slides: $(OUTPUT_DIR) $(SLIDES_TARGETS) ## Create all slides
 
 .PHONY: gfm
-gfm: $(OUTPUT_DIR) $(GFM_TARGETS) ## Create GitHub-Markdown
+gfm: $(OUTPUT_DIR) $(OUTPUT_DIR)/$(IMG_DIR) $(GFM_TARGETS) $(GFM_IMG_TARGETS) ## Create GitHub-Markdown
 
 .PHONY: book
 book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
@@ -92,11 +95,17 @@ distclean: clean ## Clean up intermediate files and generated artifacts
 $(OUTPUT_DIR):
 	mkdir -p $@
 
+$(OUTPUT_DIR)/$(IMG_DIR):
+	mkdir -p $@
+
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
 
 $(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
 	$(PANDOC) $(PANDOC_DIRS) -d ./gfm    $^ -o $@
+
+$(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
+	cp $^ $@
 
 $(BOOK_Target): $(TMP_FILES) $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
