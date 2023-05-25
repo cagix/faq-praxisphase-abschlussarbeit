@@ -45,11 +45,9 @@ LICENSE_SLIDE    = .license_slide.md
 IMG_DIR          = img
 OUTPUT_DIR       = docs
 
-TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
 SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 GFM_TARGETS      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.md)
 GFM_IMG_TARGETS  = $(GFM_IMAGES:$(IMG_DIR)/%.png=$(OUTPUT_DIR)/$(IMG_DIR)/%.png)
-BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 
 
 #--------------------------------------------------------------------------------
@@ -68,16 +66,13 @@ runlocal: ## Start Docker container "pandoc-lecture" into interactive shell
 
 
 .PHONY: all
-all: slides gfm book ## Make everything
+all: slides gfm ## Make everything
 
 .PHONY: slides
 slides: $(OUTPUT_DIR) $(SLIDES_TARGETS) ## Create all slides
 
 .PHONY: gfm
 gfm: $(OUTPUT_DIR) $(OUTPUT_DIR)/$(IMG_DIR) $(GFM_TARGETS) $(GFM_IMG_TARGETS) ## Create GitHub-Markdown
-
-.PHONY: book
-book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
 
 
 .PHONY: clean
@@ -86,7 +81,7 @@ clean: ## Clean up intermediate files
 
 .PHONY: distclean
 distclean: clean ## Clean up intermediate files and generated artifacts
-	rm -rf $(SLIDES_TARGETS) $(GFM_TARGETS) $(BOOK_Target) $(OUTPUT_DIR)
+	rm -rf $(SLIDES_TARGETS) $(GFM_TARGETS) $(OUTPUT_DIR)
 
 
 #--------------------------------------------------------------------------------
@@ -106,9 +101,3 @@ $(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
 
 $(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
 	cp $^ $@
-
-$(BOOK_Target): $(TMP_FILES) $(LICENSE_SLIDE)
-	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
-
-$(TMP_FILES): __%.md: %.md
-	$(PANDOC) $(PANDOC_DIRS) -L title2h1.lua -s $< -o $@
