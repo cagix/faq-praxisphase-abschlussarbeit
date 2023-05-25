@@ -20,5 +20,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: _book
-          publish_dir: pdf/
+          publish_dir: docs/
           force_orphan: true

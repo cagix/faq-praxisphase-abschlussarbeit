@@ -44,7 +44,7 @@ SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
 BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 LICENSE_SLIDE    = .license_slide.md
-OUTPUT_DIR       = pdf
+OUTPUT_DIR       = docs
 
 
 #--------------------------------------------------------------------------------
