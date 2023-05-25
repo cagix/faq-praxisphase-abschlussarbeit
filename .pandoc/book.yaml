@@ -13,6 +13,5 @@ strip-comments: true
 standalone: true
 wrap: preserve
 
-
 filters:
 - prepareHandout.lua
