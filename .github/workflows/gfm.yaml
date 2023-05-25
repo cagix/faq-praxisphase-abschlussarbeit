@@ -1,0 +1,24 @@
+name: GFM
+on:
+  # push on master branch: build gfm (pandoc)
+  push:
+    branches: [master]
+  # manually triggered: build gfm (pandoc)
+  workflow_dispatch:
+
+
+jobs:
+  # build gfm format (pandoc): "make gfm"
+  gfm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: cagix/pandoc-lecture@master
+        with:
+          make-target: 'make gfm'
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: _gfm
+          publish_dir: docs/
+          force_orphan: true
