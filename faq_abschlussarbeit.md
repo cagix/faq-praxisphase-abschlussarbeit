@@ -56,7 +56,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#wo-praxisphase)
 -   Intern: Labor, Forschungsprojekt, o.ä.
 
     ::: notes
-    In selteneren Fällen wird die Bachelorarbeit FH-intern in einem Labor oder einem
+    In selteneren Fällen wird die Bachelorarbeit HSBI-intern in einem Labor oder einem
     Forschungsprojekt durchgeführt. Dabei entfällt in der Regel eine Entlohnung, da hierfür
     keine Mittel bereitstehen.
     :::
@@ -64,7 +64,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#wo-praxisphase)
 \bigskip
 
 => **Wichtig**:
--   In jedem Fall wird ein/e Betreuer/in in der FH (Dozent/in) benötigt! Diese/r
+-   In jedem Fall wird ein/e Betreuer/in in der HSBI (Dozent/in) benötigt! Diese/r
     ist auch die/der Erstprüfer/in.
 -   Es wird *zusätzlich* ein Zweitprüfer benötigt:
     -   Bei externen Arbeiten übernimmt dies meist der Betreuer in der Firma (Wichtig:
@@ -83,7 +83,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](faq_praxisphase.md)
 
 \smallskip
 
--   Stellenanzeigen (Internet, Zeitungen, [FH-Stellenportal], Schwarze Bretter)
+-   Stellenanzeigen (Internet, Zeitungen, [HSBI-Stellenportal], Schwarze Bretter)
 -   Eigeninitiative, Initiativbewerbung
 -   [Mint-Mentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))
 -   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und fragen Sie die
@@ -96,7 +96,7 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](faq_praxisphase.md)
 
 \smallskip
 
-2.  Kontakt mit möglichem Betreuer/Erstprüfer in der FH (Dozent/in) aufnehmen
+2.  Kontakt mit möglichem Betreuer/Erstprüfer in der HSBI (Dozent/in) aufnehmen
     -   Gute Chancen: Thema passt zum Arbeits-/Forschungsgebiet des Betreuers
     -   Gute Chancen: Sie kümmern sich frühzeitig (die Zeitbudgets für die Betreuung sind
         begrenzt)
@@ -121,15 +121,15 @@ Vergleich auch entsprechende [Bemerkungen zur Praxisphase](faq_praxisphase.md)
     Unterschriften ein. Wenn dies wg. Corona nicht möglich ist, kann der Antrag auch ohne die
     Unterschriften gestellt werden.
 
-    Sie schicken Ihrem FH-internen Betreuer (Erstprüfer) den Antrag per E-Mail (als PDF) zu,
+    Sie schicken Ihrem HSBI-internen Betreuer (Erstprüfer) den Antrag per E-Mail (als PDF) zu,
     dieser leitet den Antrag per E-Mail an das Prüfungsamt weiter, CC: an Sie und den
-    Zweitprüfer in der Firma (bzw. in der FH). Der Zweitprüfer muss dem Prüfungsamt kurz per
+    Zweitprüfer in der Firma (bzw. in der HSBI). Der Zweitprüfer muss dem Prüfungsamt kurz per
     E-Mail die Übernahme der Rolle als Zweitprüfer der Bachelorarbeit bestätigen.
 
-    Bitte senden Sie Ihrem FH-internen Betreuer dazu die Kontaktdaten des Zweitprüfers.
+    Bitte senden Sie Ihrem HSBI-internen Betreuer dazu die Kontaktdaten des Zweitprüfers.
 
     **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
-    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren FH-internen
+    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren HSBI-internen
     Betreuer/Prüfer.
     :::
 
@@ -147,13 +147,13 @@ spätestmögliche Abgabedatum.
 
 -   Sie haben die Modulprüfungen bis auf vier bestanden (Fortschrittsregelung)
 -   Sie haben eine Person aus dem Kreis der Dozenten im Studiengang gefunden, die bereit ist,
-    Ihre Bachelorarbeit zu betreuen ("FH-interner Betreuer") und die Rolle des Erstprüfers zu
+    Ihre Bachelorarbeit zu betreuen ("HSBI-interner Betreuer") und die Rolle des Erstprüfers zu
     übernehmen
 -   Sie haben eine geeignete Person gefunden, die die Rolle des Zweitprüfers übernehmen kann
     -   Bei externen Bachelorarbeiten oft der Firmenbetreuer
     -   Bei internen Bachelorarbeiten eine weitere Person aus dem Kreis der Dozenten im
         Studiengang
--   Das Thema ist geeignet (Prüfung durch den FH-internen Betreuer) und unter allen Beteiligten
+-   Das Thema ist geeignet (Prüfung durch den HSBI-internen Betreuer) und unter allen Beteiligten
     abgesprochen
 :::
 
@@ -172,7 +172,7 @@ den Stand der Arbeiten zu informieren!
     Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier nicht mit.
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
-    Sprechen Sie dies mit Ihrem FH-internen Betreuer ab!
+    Sprechen Sie dies mit Ihrem HSBI-internen Betreuer ab!
 
     Für die [BPO] hat der Prüfungsausschuss eine Angleichung der Seitenzahlen beschlossen,
     d.h. hier sind wie in der [SPO] zwischen 30 und 80 Seiten gefordert.
@@ -195,7 +195,7 @@ den Stand der Arbeiten zu informieren!
 
 \smallskip
 
--   Vorlage: Absprache mit FH-internen Betreuer
+-   Vorlage: Absprache mit HSBI-internen Betreuer
 
     ::: notes
     Sie können hier auch die [Vorlage für Abschlussarbeiten] einsetzen.
@@ -231,12 +231,12 @@ Im **Prüfungsamt** müssen Sie Ihre Bachelorarbeit **fristgerecht**
 
 ::: notes
 Sie drucken die Abschlussarbeit **nicht** aus, sondern reichen diese als PDF digital über die
-FH-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Die online eingereichte Arbeit
+HSBI-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Die online eingereichte Arbeit
 wird intern (nur) an den/die Erstprüfer/in weitergeleitet. Bitte senden Sie **selbst** auf
 geeignetem Weg eine Kopie an den/die Zweitprüfer/in!
 
 **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
-[Covid-19: Informationen für Studierende] und konsultieren Sie Ihren FH-internen
+[Covid-19: Informationen für Studierende] und konsultieren Sie Ihren HSBI-internen
 Betreuer/Prüfer.
 :::
 
@@ -315,24 +315,24 @@ Sprechen Sie rechtzeitig mit Ihren Betreuern über mögliche individuelle Anford
 :::
 
 
-[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
+[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
 
-[BPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
+[BPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-[SPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+[SPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
 
-[FH-Stellenportal]: https://www.fh-bielefeld.de/stellenportal
+[HSBI-Stellenportal]: https://www.hsbi.de/stellenportal
 
 [Mint-Mentoring]: https://www.owl-maschinenbau.de/kooperationen/mint-mentoring/
 
-[Antrag auf Zulassung zur Bachelorarbeit]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf
+[Antrag auf Zulassung zur Bachelorarbeit]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf
 
-[Covid-19: Informationen für Studierende]: https://www.fh-bielefeld.de/hochschule/aktuelles/informationen-covid19-studierende
+[Covid-19: Informationen für Studierende]: https://www.hsbi.de/hochschule/aktuelles/informationen-covid19-studierende
 
 [Vorlage für Abschlussarbeiten]: https://github.com/cagix/pandoc-thesis
 
-[Upload PDF]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
+[Upload PDF]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
 
-[Einreichung von schriftlichen Arbeiten]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
+[Einreichung von schriftlichen Arbeiten]: https://www.hsbi.de/hochschule/schriftliche-arbeiten

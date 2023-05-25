@@ -58,18 +58,18 @@ Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §21) geregel
 -   Intern: Labor, Forschungsprojekt, o.ä.
 
     ::: notes
-    In selteneren Fällen wird die Praxisphase FH-intern in einem Labor oder einem
+    In selteneren Fällen wird die Praxisphase HSBI-intern in einem Labor oder einem
     Forschungsprojekt durchgeführt. Dabei entfällt in der Regel eine Entlohnung, da hierfür
     keine Mittel bereitstehen.
     :::
 
 \bigskip
 
-=> **Wichtig**: In jedem Fall wird ein/e Betreuer/in in der FH (Dozent/in) benötigt!
+=> **Wichtig**: In jedem Fall wird ein/e Betreuer/in in der HSBI (Dozent/in) benötigt!
 
 ## Wie finde ich eine Praxisstelle? {#finden-praxisstelle}
 
--   Stellenanzeigen (Internet, Zeitungen, [FH-Stellenportal], Schwarze Bretter)
+-   Stellenanzeigen (Internet, Zeitungen, [HSBI-Stellenportal], Schwarze Bretter)
 -   Eigeninitiative, Initiativbewerbung
 -   [Mint-Mentoring] ([Details siehe nächste Folie](#detailsmint))
 -   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und fragen Sie die
@@ -77,13 +77,13 @@ Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §21) geregel
 
 ## Details Mint-Mentoring {#detailsmint}
 
--   Gemeinsames Programm der FH Bielefeld und Firmen in OWL
+-   Gemeinsames Programm der HSBI und Firmen in OWL
 -   Betreuung durch einen Mentor
 -   Regelmäßige Workshops und "Marktplätze" zum gegenseitigen Kennenlernen (Firmen, Studierende)
 
 \bigskip
 
-**Ansprechpartnerin in Minden**: BC George (<bc.george@fh-bielefeld.de>)
+**Ansprechpartnerin in Minden**: BC George (<bc.george@hsbi.de>)
 
 ## Wie starte ich in meine Praxisphase?
 
@@ -91,7 +91,7 @@ Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §21) geregel
 
 \smallskip
 
-2.  Kontakt mit möglichem Betreuer in der FH (Dozent/in) aufnehmen
+2.  Kontakt mit möglichem Betreuer in der HSBI (Dozent/in) aufnehmen
     -   Gute Chancen: Thema passt zum Arbeits-/Forschungsgebiet des Betreuers
 
 \smallskip
@@ -116,15 +116,15 @@ Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §21) geregel
     Unterschriften ein. Wenn dies wg. Corona nicht möglich ist, kann der Antrag auch ohne die
     Unterschriften gestellt werden.
 
-    Sie schicken Ihrem FH-internen Betreuer den Antrag per E-Mail (als PDF) zu, dieser leitet
+    Sie schicken Ihrem HSBI-internen Betreuer den Antrag per E-Mail (als PDF) zu, dieser leitet
     den Antrag per E-Mail an das Prüfungsamt weiter, CC: an Sie und den Betreuer in der Firma.
     Der Firmenbetreuer muss dem Prüfungsamt die Praxisphase in der Firma kurz per E-Mail
     bestätigen.
 
-    Bitte senden Sie Ihrem FH-internen Betreuer dazu die Kontaktdaten des Firmenbetreuers.
+    Bitte senden Sie Ihrem HSBI-internen Betreuer dazu die Kontaktdaten des Firmenbetreuers.
 
     **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
-    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren FH-internen
+    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren HSBI-internen
     Betreuer/Prüfer.
     :::
 
@@ -140,8 +140,8 @@ Bericht und das Zeugnis[(das ist 6 Wochen nach dem Enddatum der Praxisphase!)]{.
 
 -   Sie haben mind. 110 cps erreicht (Fortschrittsregelung)
 -   Sie haben eine Person aus dem Kreis der Dozenten im Studiengang gefunden, die bereit ist,
-    Ihre Praxisphase zu betreuen ("FH-interner Betreuer")
--   Die Praxisstelle ist geeignet (Prüfung durch den FH-internen Betreuer)
+    Ihre Praxisphase zu betreuen ("HSBI-interner Betreuer")
+-   Die Praxisstelle ist geeignet (Prüfung durch den HSBI-internen Betreuer)
 :::
 
 ## Was muss ich hinterher abgeben?
@@ -156,14 +156,14 @@ Beendigung der Praxisphase einzureichen:
         Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier nicht mit.
 
         Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
-        Sprechen Sie dies mit Ihrem FH-internen Betreuer ab!
+        Sprechen Sie dies mit Ihrem HSBI-internen Betreuer ab!
         :::
 
     -   Inhalt und Aufbau: Im Stil einer Abschlussarbeit
 
         ::: notes
         Berichten Sie über Ihre Tätigkeiten während der Praxisphase. Ein Außenstehender mit
-        Informatikkenntnissen (d.h. Ihr FH-interner Betreuer) soll dies nachvollziehen können.
+        Informatikkenntnissen (d.h. Ihr HSBI-interner Betreuer) soll dies nachvollziehen können.
 
         Der Bericht soll auf die Bachelorarbeit vorbereiten, daher sollten Sie im Stil einer
         Abschlussarbeit mit entsprechend wissenschaftlichem Anstrich schreiben: Auf die Ich-Form
@@ -177,7 +177,7 @@ Beendigung der Praxisphase einzureichen:
         -   Quellen (vgl. auch Fachseminar)
         :::
 
-    -   Vorlage: Absprache mit FH-internen Betreuer
+    -   Vorlage: Absprache mit HSBI-internen Betreuer
 
         ::: notes
         Sie können hier auch die [Vorlage für Abschlussarbeiten] einsetzen.
@@ -194,11 +194,11 @@ Beendigung der Praxisphase einzureichen:
 
 ::: notes
 Sie drucken den Bericht und das Zeugnis **nicht** aus, sondern reichen beides als PDF digital
-über die FH-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Das Zeugnis sollte nach
+über die HSBI-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Das Zeugnis sollte nach
 Möglichkeit die Unterschrift der Firma tragen.
 
 **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter [Covid-19: Informationen für
-Studierende] und konsultieren Sie Ihren FH-internen Betreuer/Prüfer.
+Studierende] und konsultieren Sie Ihren HSBI-internen Betreuer/Prüfer.
 :::
 
 ## Bekomme ich eine Note?
@@ -214,7 +214,7 @@ Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforde
 
 ## Was muss ich sonst noch beachten?
 
--   Eignung der Praxisstelle wird durch FH-Betreuer festgestellt
+-   Eignung der Praxisstelle wird durch HSBI-Betreuer festgestellt
 
 \smallskip
 
@@ -255,26 +255,26 @@ Sprechen Sie rechtzeitig mit Ihrem Betreuer über mögliche individuelle Anforde
 
 
 
-[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
+[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
 
-[BPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
+[BPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
 
-[SPO]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+[SPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
 
-[FH-Stellenportal]: https://www.fh-bielefeld.de/stellenportal
+[HSBI-Stellenportal]: https://www.hsbi.de/stellenportal
 
 [Mint-Mentoring]: https://www.owl-maschinenbau.de/kooperationen/mint-mentoring/
 
-[Antrag auf Zulassung zu Praxisphase]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zu+Praxisphase+und+Auslandssemester.pdf
+[Antrag auf Zulassung zu Praxisphase]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zu+Praxisphase+und+Auslandssemester.pdf
 
-[Praxisphasebescheinigung]: https://www.fh-bielefeld.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+Praxisphasebescheinigung+%28Kurzform%29.pdf
+[Praxisphasebescheinigung]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+Praxisphasebescheinigung+%28Kurzform%29.pdf
 
-[Covid-19: Informationen für Studierende]: https://www.fh-bielefeld.de/hochschule/aktuelles/informationen-covid19-studierende
+[Covid-19: Informationen für Studierende]: https://www.hsbi.de/hochschule/aktuelles/informationen-covid19-studierende
 
 [Vorlage für Abschlussarbeiten]: https://github.com/cagix/pandoc-thesis
 
-[Upload PDF]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
+[Upload PDF]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
 
-[Einreichung von schriftlichen Arbeiten]: https://www.fh-bielefeld.de/hochschule/schriftliche-arbeiten
+[Einreichung von schriftlichen Arbeiten]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
