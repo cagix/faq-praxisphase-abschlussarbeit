@@ -40,11 +40,13 @@ endif
 # Source and target files for book and slides
 #--------------------------------------------------------------------------------
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
-SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
-TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
-BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 LICENSE_SLIDE    = .license_slide.md
 OUTPUT_DIR       = docs
+
+TMP_FILES        = $(MARKDOWN_SOURCES:%.md=__%.md)
+SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
+GFM_TARGETS      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.md)
+BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.pdf
 
 
 #--------------------------------------------------------------------------------
@@ -63,10 +65,13 @@ runlocal: ## Start Docker container "pandoc-lecture" into interactive shell
 
 
 .PHONY: all
-all: slides book ## Make everything
+all: slides gfm book ## Make everything
 
 .PHONY: slides
 slides: $(OUTPUT_DIR) $(SLIDES_TARGETS) ## Create all slides
+
+.PHONY: gfm
+gfm: $(OUTPUT_DIR) $(GFM_TARGETS) ## Create GitHub-Markdown
 
 .PHONY: book
 book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
@@ -78,7 +83,7 @@ clean: ## Clean up intermediate files
 
 .PHONY: distclean
 distclean: clean ## Clean up intermediate files and generated artifacts
-	rm -rf $(SLIDES_TARGETS) $(BOOK_Target) $(OUTPUT_DIR)
+	rm -rf $(SLIDES_TARGETS) $(GFM_TARGETS) $(BOOK_Target) $(OUTPUT_DIR)
 
 
 #--------------------------------------------------------------------------------
@@ -89,6 +94,9 @@ $(OUTPUT_DIR):
 
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
+
+$(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
+	$(PANDOC) $(PANDOC_DIRS) -d ./gfm    $^ -o $@
 
 $(BOOK_Target): $(TMP_FILES) $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
