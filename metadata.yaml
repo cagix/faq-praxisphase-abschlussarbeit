@@ -1,12 +1,8 @@
----
 author: "Carsten Gips (FH Bielefeld)"
 subtitle: "Studiengang Informatik (FH Bielefeld, Campus Minden)"
 institute: "Unless otherwise noted, this work is licensed under CC BY-SA 4.0."
 
 lang: de-DE
-
-link-citations: true
-csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
 
 references:
 - id: Balzert2017
@@ -23,4 +19,3 @@ references:
   title: Wissenschaftliches Arbeiten
   publisher: Springer Campus
   ISBN: 978-3-96149-006-6
----

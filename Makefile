@@ -42,9 +42,10 @@ endif
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
 GFM_IMAGES		 = $(shell find $(IMG_DIR) -type f -iname '*.png')
 LICENSE_SLIDE    = .license_slide.md
-INTERN_TEMPLATE  = hsbi.docx
+INTERN_TEMPLATE  = $(PANDOC_CONF)/hsbi.docx
 IMG_DIR          = img
 OUTPUT_DIR       = docs
+PANDOC_CONF      = .pandoc
 
 SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 GFM_TARGETS      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.md)
@@ -100,16 +101,16 @@ $(OUTPUT_DIR)/$(IMG_DIR):
 	mkdir -p $@
 
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
-	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/slides $^ -o $@
 
 $(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
-	$(PANDOC) $(PANDOC_DIRS) -d ./gfm    $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/gfm    $^ -o $@
 
 $(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
 	cp $^ $@
 
 $(BOOK_Target): $(BOOK_TMP_FILES) $(LICENSE_SLIDE)
-	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/book   $^ -o $@
 
 $(BOOK_TMP_FILES): __%.md: %.md
 	$(PANDOC) $(PANDOC_DIRS) -L title2h1.lua -s $< -o $@

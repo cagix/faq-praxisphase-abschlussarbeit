@@ -3,14 +3,16 @@ to: beamer
 
 metadata-file: metadata.yaml
 
-strip-comments: true
-slide-level: 2
-
 citeproc: true
-
 metadata:
-  suppress-bibliography: true
+  csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
   link-citations: false
+  suppress-bibliography: true
+
+strip-comments: true
+standalone: true
+wrap: preserve
+slide-level: 2
 
 pdf-engine: pdflatex
 pdf-engine-opt: '-shell-escape'
