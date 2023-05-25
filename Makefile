@@ -100,16 +100,16 @@ $(OUTPUT_DIR)/$(IMG_DIR):
 	mkdir -p $@
 
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
-	$(PANDOC) $(PANDOC_DIRS) -d ./slides $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d .pandoc/slides $^ -o $@
 
 $(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
-	$(PANDOC) $(PANDOC_DIRS) -d ./gfm    $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d .pandoc/gfm    $^ -o $@
 
 $(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
 	cp $^ $@
 
 $(BOOK_Target): $(BOOK_TMP_FILES) $(LICENSE_SLIDE)
-	$(PANDOC) $(PANDOC_DIRS) -d ./book   $^ -o $@
+	$(PANDOC) $(PANDOC_DIRS) -d .pandoc/book   $^ -o $@
 
 $(BOOK_TMP_FILES): __%.md: %.md
 	$(PANDOC) $(PANDOC_DIRS) -L title2h1.lua -s $< -o $@
