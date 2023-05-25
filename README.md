@@ -10,8 +10,8 @@
 
 ## Wichtige Dokumente und Anträge
 
-Sie finden die wichtigsten Dokumente und Anträge auf der FH-Webseite unter
-[Ordnungen und weitere Dokumente](https://www.fh-bielefeld.de/studiengaenge/downloads/informatik-bachelor).
+Sie finden die wichtigsten Dokumente und Anträge auf der HSBI-Webseite unter
+[Ordnungen und weitere Dokumente](https://www.hsbi.de/studiengaenge/downloads/informatik-bachelor).
 
 ## Weitere Bemerkungen
 
@@ -27,7 +27,7 @@ Vereinfachungen vorgenommen:
 
 ## Erklärvideo
 
-[Direkt-Link FH-Medienportal](https://www.fh-bielefeld.de/medienportal/m/b91f1872f5727abc899606ab4fdf23bb2d068fbdf61b6b59e4e25254de7272eb5528d8b9721b6bdaa99796527d0fb9673022ee83d6b4d2d19e83b827fd9d55a7)
+[Direkt-Link HSBI-Medienportal](https://www.hsbi.de/medienportal/m/b91f1872f5727abc899606ab4fdf23bb2d068fbdf61b6b59e4e25254de7272eb5528d8b9721b6bdaa99796527d0fb9673022ee83d6b4d2d19e83b827fd9d55a7)
 
 ## Credits
 
@@ -35,8 +35,8 @@ Vereinfachungen vorgenommen:
 -   Beiträge:
     -   Christiane Seele (Abbildung Prozess Praxisphase, Reviews)
     -   [BC George](https://github.com/bcg7) (Reviews)
-    -   Matthias König (Reviews, URL FH-Stellenportal, Hinweis BA baut üblicherweise auf
-        Praxisphase auf)
+    -   [Matthias König](https://github.com/U2654) (Reviews, URL HSBI-Stellenportal, Hinweis BA baut
+        üblicherweise auf Praxisphase auf)
     -   [Angela Kreienkamp](https://github.com/kreienkamp) (Word-Version)
 
 ## License
