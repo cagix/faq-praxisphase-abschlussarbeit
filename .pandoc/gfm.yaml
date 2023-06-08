@@ -13,4 +13,5 @@ standalone: true
 wrap: preserve
 
 filters:
+- title2h1.lua
 - prepareHandout.lua
