@@ -103,7 +103,7 @@ $(OUTPUT_DIR)/$(IMG_DIR):
 $(SLIDES_TARGETS): $(OUTPUT_DIR)/%.pdf: %.md $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/slides $^ -o $@
 
-$(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md
+$(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/gfm    $^ -o $@
 
 $(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
