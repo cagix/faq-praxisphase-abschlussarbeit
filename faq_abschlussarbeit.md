@@ -2,189 +2,175 @@
 title: "FAQ: Abschlussarbeit"
 ---
 
-## Worum geht's in der Bachelorarbeit?
+## Worum geht es in der Bachelorarbeit?
 
 ::: notes
-Die Bachelorarbeit wird in der Prüfungsordnung ([Prüfungsordnung und Modulhandbuch Bachelor
-Informatik Version 10], dort §28, §29, §30 und §31, bzw. [Studiengangsprüfungsordnung und
-Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)], dort §23, §24, §25, §26 und §27)
-geregelt.
+Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
+
+-   Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld ([RPO-BA]):
+    -   Kapitel "V. Bachelorarbeit"
+-   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 23) ([SPO-BA 23]):
+    -   §22 bis §26
+    -   Modulbeschreibung zum Modul "Bachelorarbeit"
+-   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 18, Fassung 2022)
+    ([SPO-BA 18]):
+    -   §23 bis §27
+    -   Modulbeschreibung zum Modul "Bachelorarbeit"
 :::
 
--   **Ziel**: Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit
-    wissenschaftlichen Methoden innerhalb einer vorgegebenen Frist
+### Ziel
 
-    ::: notes
-    In §22 (1) der [SPO] heisst es hier konkret: "Die Bachelorarbeit muss zeigen, dass die/der
-    Studierende befähigt ist, innerhalb einer vorgegebenen Frist eine praxisorientierte Aufgabe
-    aus ihrem/seinem Fachgebiet, sowohl in ihren fachlichen Einzelheiten als auch in den
-    fachübergreifenden Zusammenhängen nach wissenschaftlichen Methoden selbständig zu
-    bearbeiten."
-    :::
-
-\smallskip
-
--   **Inhalt**: Selbständige Bearbeitung einer wissenschaftlich angewandten Problemstellung,
-    deren Dokumentation sowie im Regelfall die Konzeption und Entwicklung einer Softwarelösung
-
-\smallskip
-
--   **Umfang**: 3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne
-    Unterbrechung: 360h)
-
-## Wo kann ich meine Bachelorarbeit durchführen?
-
-::: notes
-Vergleich auch entsprechende [Bemerkungen zur Praxisphase](#wo-praxisphase)
-:::
-
--   Extern: Firma
-
-    ::: notes
-    Die Durchführung der Bachelorarbeit in einer Firma ist der Standardfall. In der Regel wird
-    die Tätigkeit im Rahmen der Bachelorarbeit von den Firmen bezahlt.
-
-    **Hinweis:** In der Regel wird dazu ein Vertrag zwischen Ihnen und der Firma abgeschlossen.
-    Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der (Anmeldung zur)
-    Prüfungsleistung zu tun. Im Extremfall kann sich beispielsweise die Vertragslaufzeit
-    deutlich von der Bearbeitungszeit der Bachelorarbeit (Zeitraum zwischen
-    Anmeldung/Genehmigung und Beendigung) unterscheiden!
-    :::
-
-\smallskip
-
--   Intern: Labor, Forschungsprojekt, o.ä.
-
-    ::: notes
-    In selteneren Fällen wird die Bachelorarbeit HSBI-intern in einem Labor oder einem
-    Forschungsprojekt durchgeführt. Dabei entfällt in der Regel eine Entlohnung, da hierfür
-    keine Mittel bereitstehen.
-    :::
+Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit wissenschaftlichen
+Methoden innerhalb einer vorgegebenen Frist
 
 \bigskip
 
-=> **Wichtig**:
--   In jedem Fall wird ein/e Betreuer/in in der HSBI (Dozent/in) benötigt! Diese/r
-    ist auch die/der Erstprüfer/in.
--   Es wird *zusätzlich* ein Zweitprüfer benötigt:
-    -   Bei externen Arbeiten übernimmt dies meist der Betreuer in der Firma (Wichtig:
-        Muss mind. den angestrebten Abschluss oder eine vergleichbare Qualifikation
-        haben (vgl. §9 (1) [BPO])!)
-    -   Bei internen Arbeiten übernimmt dies ein/e Dozent/in aus dem Studiengang (vorher
-        fragen!)
+### Umfang
 
-## Wie finde ich ein Thema und Betreuer?
+3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
+
+## Wo kann ich meine Bachelorarbeit durchführen?
+
+### Extern: Firma
 
 ::: notes
-Vergleich auch entsprechende [Bemerkungen zur Praxisphase](faq_praxisphase.md)
+Häufig wird die Bachelorarbeit in einer Firma durchgeführt.
+
+Dazu wird in der Regel ein Vertrag zwischen Ihnen und der Firma abgeschlossen, in dem auch die
+Vertragslaufzeit, wöchentliche Arbeitszeit und das Entgeld geregelt werden.
+
+**Hinweis:** Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der Prüfungsleistung
+"Bachelorarbeit" an der HSBI zu tun. Im Extremfall kann sich beispielsweise die Vertragslaufzeit
+deutlich von der Bearbeitungszeit der Bachelorarbeit (Zeitraum zwischen Anmeldung/Genehmigung und
+Beendigung) unterscheiden!
 :::
+
+\smallskip
+
+### Intern: Labor oder Forschungsprojekt
+
+::: notes
+Sie können je nach Angebot die Bachelorarbeit aber auch in der Hochschule in einem Labor oder einem
+Forschungsprojekt durchführen. Sprechen Sie die Dozent:innen bei Interesse rechtzeitig an.
+
+Häufig absolvieren Sie hier lediglich die Prüfungsleistung, d.h. Sie werden nicht im Labor oder
+Forschungsprojekt eingestellt.
+:::
+
+\bigskip
+
+### Betreuer:innen und Prüfer:innen
+
+-   Erstprüfer:in: Dozent:in im Studiengang (HSBI)
+-   Zweitprüfer:in:
+    -   externe Arbeiten: i.d.R. Betreuer:in in der Firma
+    -   interne Arbeiten: Dozent:in aus dem Studiengang
+
+::: notes
+Für die Rolle als Zweitprüfer:in müssen die Personen mindestens den angestrebten Abschluss oder eine
+vergleichbare Qualifikation haben (vgl. §10 (1) [RPO-BA]).
+
+Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese auf Ihrem
+[Antrag auf Zulassung zur Bachelorarbeit] angeben und unterschreiben lassen.
+:::
+
+
+## Wie finde ich ein Thema und Betreuer?
 
 -   **Nutzen Sie die Praxisphase: Kontakt in der jeweiligen Firma!**
 
 \smallskip
 
--   Stellenanzeigen (Internet, Zeitungen, [HSBI-Stellenportal], Schwarze Bretter)
 -   Eigeninitiative, Initiativbewerbung
+-   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und sprechen Sie die
+    passenden Dozenten:innen rechtzeitig an
 -   [Mint-Mentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))
--   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und fragen Sie die
-    passenden Dozenten rechtzeitig
+-   Stellenanzeigen (Internet, Zeitungen, [HSBI-Stellenportal], Schwarze Bretter)
 
 ## Wie starte ich in meine Bachelorarbeit?
 
-1.  Kontakt mit möglicher Firma oder Labor oder Forschungsprojekt aufnehmen, ggf.
+![Zeitlicher Ablauf Bachelorarbeit](img/screenshot_prozess_bachelorarbeit.png){width="80%"}
+
+::: notes
+1.  Kontakt mit gewünschter Firma oder Labor bzw. Forschungsprojekt aufnehmen, ggf.
     Bewerbungsprozess durchlaufen
 
-\smallskip
-
-2.  Kontakt mit möglichem Betreuer/Erstprüfer in der HSBI (Dozent/in) aufnehmen
-    -   Gute Chancen: Thema passt zum Arbeits-/Forschungsgebiet des Betreuers
+2.  Kontakt mit potentieller Betreuer:in/Erstprüfer:in in der HSBI (Dozent:in) aufnehmen
+    -   Gute Chancen: Thema passt zum Arbeits-/Forschungsgebiet der Betreuer:in
     -   Gute Chancen: Sie kümmern sich frühzeitig (die Zeitbudgets für die Betreuung sind
         begrenzt)
 
-\smallskip
+3.  Ggf. Zweitprüfer:in an HSBI (Dozent:in) suchen (i.d.R. nur bei internen Arbeiten)
 
-3.  Abstimmung bzgl. des Themas zwischen Erst- und Zweitprüfer und Kandidaten
-    -   Erstellen Sie ein Exposé (PDF, 1-2 Seiten): Idee, Ausgangspunkt, Ziel, Schritte,
-        Zeitplan, Risiken
+4.  Abstimmung bzgl. des Themas zwischen Erst- und Zweitprüfer:innen und Kandidat:in
+    -   Erstellen Sie ein Exposé (PDF, 1-3 Seiten): Problem, Ausgangspunkt, Ziel, wichtige
+        Meilensteine, relevante Methoden und Technologien, grober Zeitplan, Risiken
+    -   Organisieren Sie die Abstimmung
 
-\smallskip
+5.  [Antrag auf Zulassung zur Bachelorarbeit] ausfüllen, Unterschrift Zweitprüfer:in
+    einholen und an Erstprüfer:in schicken (als PDF per Mail)
+    -   Bitte das PDF am Rechner ausfüllen (nicht handschriftlich)
+    -   Den Antrag selbst unterschreiben
+    -   Den Antrag von Zweitprüfer:in unterschreiben lassen
+    -   Den Antrag als PDF an Erstprüfer:in mailen
+    -   Erstprüfer:in unterschreibt und leitet den Antrag an den Studierendenservice weiter
+    -   Bei Genehmigung erscheint nach bis zu zwei Wochen ein entsprechender Eintrag im LSF
 
-4.  [Antrag auf Zulassung zur Bachelorarbeit] ausfüllen (als PDF), ausdrucken, Unterschriften
-    einholen und im Prüfungsamt abgeben
 
-    \smallskip
+**Hinweise**:
 
-    **Abweichende Regelungen wg. Corona**: Antrag per Mail (PDF) an Erstprüfer
-
-    ::: notes
-    Sie füllen den Antrag am Rechner aus (als PDF) und holen *nach Möglichkeit* die
-    Unterschriften ein. Wenn dies wg. Corona nicht möglich ist, kann der Antrag auch ohne die
-    Unterschriften gestellt werden.
-
-    Sie schicken Ihrem HSBI-internen Betreuer (Erstprüfer) den Antrag per E-Mail (als PDF) zu,
-    dieser leitet den Antrag per E-Mail an das Prüfungsamt weiter, CC: an Sie und den
-    Zweitprüfer in der Firma (bzw. in der HSBI). Der Zweitprüfer muss dem Prüfungsamt kurz per
-    E-Mail die Übernahme der Rolle als Zweitprüfer der Bachelorarbeit bestätigen.
-
-    Bitte senden Sie Ihrem HSBI-internen Betreuer dazu die Kontaktdaten des Zweitprüfers.
-
-    **Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
-    [Covid-19: Informationen für Studierende] und konsultieren Sie Ihren HSBI-internen
-    Betreuer/Prüfer.
-    :::
-
-\bigskip
-
-**Hinweis**: Zwischen der Einreichung im Prüfungsamt und der Annahme des Antrags (Start der
-Bachelorarbeit) können bis zu zwei Wochen liegen.
-[Es gibt keine weiteren Briefe oder Mails.]{.notes}
-Wenn der Antrag angenommen ist, beginnt die Bearbeitungszeit und Sie sehen im LSF das
-spätestmögliche Abgabedatum.
-[Bei Ablehnung des Antrags erhalten Sie einen Brief vom Prüfungsamt.]{.notes}
+-   Sie müssen sich selbst um Erst- und Zweitprüfer:innen und die Abstimmung des Themas bemühen. Oft
+    gibt es bereits Vorschläge für mögliche Bachelorarbeiten, aber Sie können i.d.R. auch eigene
+    Ideen einbringen. Das Exposé soll die Abstimmung erleichtern und Ihnen helfen, über das Thema
+    Klarheit zu gewinnen. Es soll grob die Arbeit und die angestrebten Ergebnisse beschreiben - Sie
+    sollen die potentielle Bachelorarbeit aber noch nicht durchführen!
+-   Zwischen der Einreichung im Studierendenservice und der Annahme des Antrags (Start der
+    Bachelorarbeit) können bis zu zwei Wochen liegen. Es gibt keine weiteren Briefe oder Mails. Wenn
+    der Antrag angenommen ist, beginnt die Bearbeitungszeit und Sie sehen im LSF das spätestmögliche
+    Abgabedatum. Bei Ablehnung des Antrags erhalten Sie einen Brief vom Studierendenservice.
+:::
 
 ::: notes
 ## Voraussetzungen für die Anmeldung der Bachelorarbeit
 
--   Sie haben die Modulprüfungen bis auf vier bestanden (Fortschrittsregelung)
--   Sie haben eine Person aus dem Kreis der Dozenten im Studiengang gefunden, die bereit ist,
-    Ihre Bachelorarbeit zu betreuen ("HSBI-interner Betreuer") und die Rolle des Erstprüfers zu
+-   Sie haben die Modulprüfungen bis auf vier bestanden (vgl. §10 (1) [SPO-BA 18])
+-   Sie haben eine Person aus dem Kreis der Dozent:innen im Studiengang gefunden, die bereit ist,
+    Ihre Bachelorarbeit zu betreuen ("HSBI-interne Betreuer:in") und die Rolle der Erstprüfer:in zu
     übernehmen
--   Sie haben eine geeignete Person gefunden, die die Rolle des Zweitprüfers übernehmen kann
-    -   Bei externen Bachelorarbeiten oft der Firmenbetreuer
-    -   Bei internen Bachelorarbeiten eine weitere Person aus dem Kreis der Dozenten im
+-   Sie haben eine geeignete Person gefunden, die die Rolle der Zweitprüfer:in übernehmen kann
+    -   bei externen Bachelorarbeiten i.d.R. die Betreuer:in in der Firma
+    -   bei internen Bachelorarbeiten eine weitere Person aus dem Kreis der Dozent:innen im
         Studiengang
--   Das Thema ist geeignet (Prüfung durch den HSBI-internen Betreuer) und unter allen Beteiligten
-    abgesprochen
+-   Das Thema ist geeignet (Prüfung durch die HSBI-interne Betreuer:in) und ist unter allen
+    Beteiligten abgesprochen
 :::
 
 ## Welche Termine gibt es während der Bearbeitungszeit?
 
-Das ist abhängig von Ihren Betreuern. Besprechen Sie dies rechtzeitig mit beiden Prüfern!
+Das ist abhängig von Ihren Betreuer:innen. Besprechen Sie dies rechtzeitig mit beiden Prüfer:innen!
 
-**Hinweis**: Es bietet sich an, regelmäßig den Kontakt zu beiden Prüfern zu suchen und sie über
+**Hinweis**: Es bietet sich an, regelmäßig den Kontakt zu beiden Prüfer:innen zu suchen und sie über
 den Stand der Arbeiten zu informieren!
 
 ## Aufbau der Arbeit? Gibt es eine Vorlage?
 
--   Anforderungen gemäß [BPO]/[SPO]: Seitenumfang 30 bis 80 Seiten (reine Textseiten)
+-   Anforderungen gemäß [SPO-BA 18]/[SPO-BA 23]: Seitenumfang 30 bis 80 Seiten
 
     ::: notes
-    Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier nicht mit.
+    Es zählen nur die reinen Textseiten. Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier
+    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter (vgl. §9 (1) [SPO-BA 18]).
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
-    Sprechen Sie dies mit Ihrem HSBI-internen Betreuer ab!
-
-    Für die [BPO] hat der Prüfungsausschuss eine Angleichung der Seitenzahlen beschlossen,
-    d.h. hier sind wie in der [SPO] zwischen 30 und 80 Seiten gefordert.
+    Sprechen Sie dies mit Ihren Prüfer:innen ab!
     :::
 
 \smallskip
 
--   Gliederung, Aufbau: Stil einer Abschlussarbeit mit wissenschaftlichem Anstrich
+-   Gliederung, Aufbau: Stil einer Abschlussarbeit mit wissenschaftlichem Anspruch
 
     ::: notes
     Die Bachelorarbeit sollte im Stil einer Abschlussarbeit mit entsprechend wissenschaftlichem
-    Anstrich verfasst werden: Auf die Ich-Form sollte verzichtet werden.
+    Anspruch verfasst werden: Auf die Ich-Form sollte verzichtet werden.
 
     Inhaltlich sollten Sie die üblichen Punkte behandeln:
     -   Einleitung: u.a. Beschreibung der Aufgabe(n) und (Unternehmens-) Umfeld
@@ -195,11 +181,10 @@ den Stand der Arbeiten zu informieren!
 
 \smallskip
 
--   Vorlage: Absprache mit HSBI-internen Betreuer
+-   Vorlage: Absprache mit Prüfer:innen
 
     ::: notes
     Sie können hier auch die [Vorlage für Abschlussarbeiten] einsetzen.
-
     Dies bietet mehrere Vorteile:
     -   Typische Gliederung ist bereits eingebaut
     -   Hinweise zu typischen Umfängen als Kommentar in den Beispieldateien vorhanden
@@ -209,35 +194,40 @@ den Stand der Arbeiten zu informieren!
 
 \smallskip
 
--   Weitere Hinweise zum Aufbau einer Abschlussarbeit sowie zum Zitieren etc. finden Sie in
-    @Balzert2017
+-   Weitere Hinweise zum Aufbau einer Abschlussarbeit sowie zum Zitieren etc. finden Sie
+    beispielsweise in @Balzert2017
 
 \bigskip
 
-**Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Betreuern/Prüfern!
+**Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Prüfer:innen!
 
 ## Was muss ich hinterher einreichen?
 
-Im **Prüfungsamt** müssen Sie Ihre Bachelorarbeit **fristgerecht**
-[(vor Ablauf der Abgabefrist)]{.notes} einreichen:
-
--   Schriftliche Ausarbeitung (30 bis 80 Seiten)
--   Anzahl der Exemplare: 2 Stück (gebunden)
--   Unterschriebene eidesstattliche Erklärung in beiden Exemplaren
+-   Formale Abgabe: Online über [Einreichung von schriftlichen Arbeiten]
+    -   Schriftliche Ausarbeitung (30 bis 80 Seiten) als PDF
+    -   Unterschriebene [Eigenständigkeitserklärung] im PDF
 
 \smallskip
 
-**Abweichende Regelungen wg. Corona**: [Upload PDF], [Einreichung von schriftlichen Arbeiten]
+-   Bitte senden Sie zusätzlich eine Kopie an beide Prüfer:innen
 
 ::: notes
-Sie drucken die Abschlussarbeit **nicht** aus, sondern reichen diese als PDF digital über die
-HSBI-Webseite ([Einreichung von schriftlichen Arbeiten]) ein. Die online eingereichte Arbeit
-wird intern (nur) an den/die Erstprüfer/in weitergeleitet. Bitte senden Sie **selbst** auf
-geeignetem Weg eine Kopie an den/die Zweitprüfer/in!
+Ihre Bachelorarbeit müssen Sie **fristgerecht** (vor Ablauf der Abgabefrist) beim
+Studierendenservice einreichen. Dies geschieht derzeit über die HSBI-Webseite
+([Einreichung von schriftlichen Arbeiten]).
+Sie erhalten eine Bestätigungsmail mit dem Zeitstempel - bitte bewahren Sie diese
+Mail auf.
 
-**Hinweis**: Bitte prüfen Sie die aktuellen Regelungen unter
-[Covid-19: Informationen für Studierende] und konsultieren Sie Ihren HSBI-internen
-Betreuer/Prüfer.
+Achten Sie darauf, dass Sie eine unterschriebene [Eigenständigkeitserklärung] in der
+Arbeit (PDF) unterbringen müssen.
+
+In der alten Prüfungsordnung ([SPO-BA 18]) steht noch in §26, dass Sie fristgerecht
+zwei ausgedruckte und gebundene Exemplare beim Studierendenservice einreichen müssen
+und die Online-Abgabe lediglich _zusätzlich_ erfolgt. Die derzeitige Praxis ist aber,
+dass Sie einfach ein PDF online abgeben.
+**Besprechen Sie dies bitte rechtzeitig von Abgabe mit Ihrer Erstprüfer:in!**
+In der neuen Prüfungsordnung ([SPO-BA 23]) findet sich in §25 nur noch die
+elektronische Abgabe.
 :::
 
 ## Hinweise Sperrvermerk und Source-Code
@@ -245,69 +235,86 @@ Betreuer/Prüfer.
 -   Sensible Unternehmensdaten: Sperrvermerk einfügen (Absprache mit der Firma!)
 
     ::: notes
-    Bei Ergebnissen aus dem Unternehmen, die in den Bericht gehören, aber nicht veröffentlicht
-    werden sollen, fügen Sie dem Bericht einen "Sperrvermerk" an.
+    Bei Ergebnissen aus dem Unternehmen, die zwar in den schriftlichen Bericht gehören, aber nicht
+    veröffentlicht werden sollen, fügen Sie dem Bericht einen "Sperrvermerk" an.
 
-    Fügen Sie dazu den folgenden Text auf der Seite direkt nach dem Titelblatt mit
-    entsprechenden Änderungen ein: "Dieser Bericht enthält vertrauliche Daten der Firma XYZ
-    (Name des Unternehmens). Veröffentlichungen oder Vervielfältigungen der Arbeit -- auch nur
-    auszugsweise -- sind ohne ausdrückliche Genehmigung der beteiligten Unternehmen nicht
-    gestattet. Die Arbeit ist nur den Prüfern bzw. den Korrektoren sowie den Mitgliedern des
+    Fügen Sie dazu beispielsweise den folgenden Text auf der Seite direkt nach dem Titelblatt mit
+    entsprechenden Änderungen ein: "Dieser Bericht enthält vertrauliche Daten der Firma XYZ (Name
+    des Unternehmens). Veröffentlichungen oder Vervielfältigungen der Arbeit -- auch nur
+    auszugsweise -- sind ohne ausdrückliche Genehmigung der beteiligten Unternehmen nicht gestattet.
+    Die Arbeit ist nur den Prüfern bzw. den Korrektoren sowie den Mitgliedern des
     Prüfungsausschusses bzw. der oder dem Prüfungsbeauftragten zugänglich zu machen".
+
 
     In der [Vorlage für Abschlussarbeiten] ist ein Sperrvermerk bereits vorgesehen und kann
     einfach aktiviert werden.
 
     Sprechen Sie die Notwendigkeit eines solchen Sperrvermerks rechtzeitig mit Ihrem Unternehmen
-    ab!
+    ab! Informieren Sie auch Ihre Erstprüfer:in.
     :::
 
 \smallskip
 
--   Prüfer: Absprechen, wie mit dem erstellten Quellcode und anderen in der Bachelorarbeit
-    erstellten prüfungsrelevanten Artefakten umzugehen ist
-    -   Beispiel: Abgabe als CD in der Arbeit
+-   Quellcode: Sprechen Sie mit den Prüfer:innen ab, wie mit dem erstellten Quellcode und
+    anderen in der Bachelorarbeit erstellten prüfungsrelevanten Artefakten umzugehen ist
+
+    ::: notes
+    Beispiel: Abgabe als CD in der Arbeit oder ein Link auf ein für die Prüfer:innen
+    zugreifbares Repo.
+    :::
 
 ## Bekomme ich eine Note?
 
 JA :-)
 
 ::: notes
-Die beiden Prüfer (Erst- und Zweitprüfer) benoten Ihre Arbeit. Sie erhalten als Note auf dem
-Zeugnis den Mittelwert der beiden Noten.
+Die beiden Prüfer:innen benoten Ihre Arbeit unabhängig voneinander. Sie erhalten als Note auf
+dem Zeugnis den Mittelwert der beiden Noten. Ausnahme: Wenn die Notendifferenz einen bestimmten
+Wert überschreitet, wird noch eine dritte Prüfer:in hinzugezogen.
 
-Sprechen Sie rechtzeitig mit Ihren Betreuern über mögliche individuelle Anforderungen.
+Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle Anforderungen.
 :::
 
 ## Was muss ich sonst noch beachten?
 
--   Hinweis Start
-    -   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden
-    -   Beachten Sie die Fortschrittsregelung lt. [BPO] bzw. [SPO]
-    -   Beginn nicht frei definierbar: Die Bearbeitungszeit beginnt, sobald der Antrag
-        angenommen wurde
-    -   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
-        durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
-        Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
+### Start
+
+-   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden
+-   Beachten Sie die Fortschrittsregelung lt. [SPO-BA 18] bzw. [SPO-BA 23]
+-   Beginn nicht frei definierbar: Die Bearbeitungszeit beginnt, sobald der Antrag
+    angenommen wurde
+-   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
+    durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
+    Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
 
 \smallskip
 
--   Hinweis Verlängerung der Bearbeitungszeit in Ausnahmefällen
-    -   Antrag gemäß [BPO] § 30 (2) beim Vorsitzenden des Prüfungsausschusses stellen
-        (Nachweise!)
+### Verlängerung der Bearbeitungszeit in Ausnahmefällen
+
+-   [Antrag auf Fristverlängerung] gemäß [RPO-BA] § 28 (3) beim vorsitzenden Mitglied  des
+    Prüfungsausschusses stellen (Nachweise!)
 
     ::: notes
     Bei während der Bearbeitungsfrist eintretenden Ausnahmefällen (etwa eine akute Erkrankung,
     die die weitere Bearbeitung der Bachelorarbeit temporär stark erschwert oder unmöglich
-    macht), kann das Prüfungsamt auf einen vor Ablauf der Frist gestellten begründeten Antrag
-    die Bearbeitungszeit um bis zu drei Wochen verlängern. Hierzu reicht ein formloser Antrag
-    aus. Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
+    macht), kann der Prüfungsausschuss auf einen vor Ablauf der Frist gestellten begründeten
+    Antrag die Bearbeitungszeit um bis zu drei Wochen verlängern.
+
+    Nutzen Sie dazu das Formular: [Antrag auf Fristverlängerung].
+
+    Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
     :::
 
 \smallskip
 
--   Hinweis auf Nachteilsausgleich bei Einschränkungen durch gesundheitliche Probleme oder
-    Familienaufgaben: Siehe [Folien zum Nachteilsausgleich](faq_nachteilsausgleich.md)
+### Nachteilsausgleich
+
+-   Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben können Sie einen
+    Nachteilsausgleich beantragen
+
+    ::: notes
+    Siehe [FAQ zum Nachteilsausgleich](faq_nachteilsausgleich.md)
+    :::
 
 ::: slides
 * * * * *
@@ -315,24 +322,22 @@ Sprechen Sie rechtzeitig mit Ihren Betreuern über mögliche individuelle Anford
 :::
 
 
-[Prüfungsordnung und Modulhandbuch Bachelor Informatik Version 10]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
+[SPO-BA 18]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2022%29.pdf
 
-[Studiengangsprüfungsordnung und Modulhandbuch Bachelor Informatik Version 18 (Fassung 2019)]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
+[SPO-BA 23]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Entwurf+Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+2023.pdf
 
-[BPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Pr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+10.pdf
-
-[SPO]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2019%29.pdf
-
-[HSBI-Stellenportal]: https://www.hsbi.de/stellenportal
-
-[Mint-Mentoring]: https://www.owl-maschinenbau.de/kooperationen/mint-mentoring/
+[RPO-BA]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Rahmenpr%C3%BCfungsordnung+Bachelorstudieng%C3%A4nge.pdf
 
 [Antrag auf Zulassung zur Bachelorarbeit]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf
 
-[Covid-19: Informationen für Studierende]: https://www.hsbi.de/hochschule/aktuelles/informationen-covid19-studierende
+[HSBI-Stellenportal]: https://www.hsbi.de/stellenportal
+
+[Mint-Mentoring]: https://www.owl-maschinenbau.de/mint-mentoring/
 
 [Vorlage für Abschlussarbeiten]: https://github.com/cagix/pandoc-thesis
 
-[Upload PDF]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
-
 [Einreichung von schriftlichen Arbeiten]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
+
+[Eigenständigkeitserklärung]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Eigenst%C3%A4ndigkeitserkl%C3%A4rung.pdf
+
+[Antrag auf Fristverlängerung]: https://www.hsbi.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/Fristverl%C3%A4ngerung+f%C3%BCr+die+Abgabe+der+Bachelorarbeit.pdf
