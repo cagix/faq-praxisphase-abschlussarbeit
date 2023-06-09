@@ -6,7 +6,7 @@ metadata-file: metadata.yaml
 
 citeproc: true
 metadata:
-  csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
   link-citations: true
 
 strip-comments: true
