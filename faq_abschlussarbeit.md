@@ -7,13 +7,12 @@ title: "FAQ: Abschlussarbeit"
 ::: notes
 Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
 
--   Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld ([RPO-BA]):
+-   Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld [@RPO-BA]:
     -   Kapitel "V. Bachelorarbeit"
--   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 23) ([SPO-BA 23]):
+-   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 23) [@SPO-BA23]:
     -   §22 bis §26
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
--   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 18, Fassung 2022)
-    ([SPO-BA 18]):
+-   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 18) [@SPO-BA18]:
     -   §23 bis §27
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
 :::
@@ -68,10 +67,10 @@ Forschungsprojekt eingestellt.
 
 ::: notes
 Für die Rolle als Zweitprüfer:in müssen die Personen mindestens den angestrebten Abschluss oder eine
-vergleichbare Qualifikation haben (vgl. §10 (1) [RPO-BA]).
+vergleichbare Qualifikation haben [vgl. @RPO-BA{}, §10 (1)].
 
 Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese auf Ihrem
-[Antrag auf Zulassung zur Bachelorarbeit] angeben und unterschreiben lassen.
+Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] angeben und unterschreiben lassen.
 :::
 
 
@@ -84,8 +83,8 @@ Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese
 -   Eigeninitiative, Initiativbewerbung
 -   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und sprechen Sie die
     passenden Dozenten:innen rechtzeitig an
--   [Mint-Mentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))
--   Stellenanzeigen (Internet, Zeitungen, [HSBI-Stellenportal], Schwarze Bretter)
+-   Mint-Mentoring [[@MintMentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))]{.notes}
+-   Stellenanzeigen (Internet, Zeitungen, HSBI-Stellenportal[ [@Stellenportal]]{.notes}, Schwarze Bretter)
 
 ## Wie starte ich in meine Bachelorarbeit?
 
@@ -107,7 +106,7 @@ Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese
         Meilensteine, relevante Methoden und Technologien, grober Zeitplan, Risiken
     -   Organisieren Sie die Abstimmung
 
-5.  [Antrag auf Zulassung zur Bachelorarbeit] ausfüllen, Unterschrift Zweitprüfer:in
+5.  Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] ausfüllen, Unterschrift Zweitprüfer:in
     einholen und an Erstprüfer:in schicken (als PDF per Mail)
     -   Bitte das PDF am Rechner ausfüllen (nicht handschriftlich)
     -   Den Antrag selbst unterschreiben
@@ -115,7 +114,6 @@ Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese
     -   Den Antrag als PDF an Erstprüfer:in mailen
     -   Erstprüfer:in unterschreibt und leitet den Antrag an den Studierendenservice weiter
     -   Bei Genehmigung erscheint nach bis zu zwei Wochen ein entsprechender Eintrag im LSF
-
 
 **Hinweise**:
 
@@ -133,7 +131,7 @@ Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese
 ::: notes
 ## Voraussetzungen für die Anmeldung der Bachelorarbeit
 
--   Sie haben die Modulprüfungen bis auf vier bestanden (vgl. §10 (1) [SPO-BA 18])
+-   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA18{}, §10 (1)]
 -   Sie haben eine Person aus dem Kreis der Dozent:innen im Studiengang gefunden, die bereit ist,
     Ihre Bachelorarbeit zu betreuen ("HSBI-interne Betreuer:in") und die Rolle der Erstprüfer:in zu
     übernehmen
@@ -154,11 +152,12 @@ den Stand der Arbeiten zu informieren!
 
 ## Aufbau der Arbeit? Gibt es eine Vorlage?
 
--   Anforderungen gemäß [SPO-BA 18]/[SPO-BA 23]: Seitenumfang 30 bis 80 Seiten
+-   Anforderungen gemäß Studiengangsprüfungsordnung: Seitenumfang 30 bis 80 Seiten
+    [[@SPO-BA18; @SPO-BA23]]{.notes}
 
     ::: notes
     Es zählen nur die reinen Textseiten. Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier
-    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter (vgl. §9 (1) [SPO-BA 18]).
+    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{}, §9 (1)]).
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
     Sprechen Sie dies mit Ihren Prüfer:innen ab!
@@ -184,7 +183,7 @@ den Stand der Arbeiten zu informieren!
 -   Vorlage: Absprache mit Prüfer:innen
 
     ::: notes
-    Sie können hier auch die [Vorlage für Abschlussarbeiten] einsetzen.
+    Sie können hier auch die Vorlage für Abschlussarbeiten [@TemplateBA] einsetzen.
     Dies bietet mehrere Vorteile:
     -   Typische Gliederung ist bereits eingebaut
     -   Hinweise zu typischen Umfängen als Kommentar in den Beispieldateien vorhanden
@@ -195,7 +194,7 @@ den Stand der Arbeiten zu informieren!
 \smallskip
 
 -   Weitere Hinweise zum Aufbau einer Abschlussarbeit sowie zum Zitieren etc. finden Sie
-    beispielsweise in @Balzert2017
+    beispielsweise in @Balzert2022
 
 \bigskip
 
@@ -203,9 +202,9 @@ den Stand der Arbeiten zu informieren!
 
 ## Was muss ich hinterher einreichen?
 
--   Formale Abgabe: Online über [Einreichung von schriftlichen Arbeiten]
+-   Formale Abgabe: Online über "Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
     -   Schriftliche Ausarbeitung (30 bis 80 Seiten) als PDF
-    -   Unterschriebene [Eigenständigkeitserklärung] im PDF
+    -   Unterschriebene Eigenständigkeitserklärung [[@EigenSperrBA]]{.notes} im PDF
 
 \smallskip
 
@@ -214,20 +213,20 @@ den Stand der Arbeiten zu informieren!
 ::: notes
 Ihre Bachelorarbeit müssen Sie **fristgerecht** (vor Ablauf der Abgabefrist) beim
 Studierendenservice einreichen. Dies geschieht derzeit über die HSBI-Webseite
-([Einreichung von schriftlichen Arbeiten]).
+"Einreichung von schriftlichen Arbeiten" [@EinreichungBA].
 Sie erhalten eine Bestätigungsmail mit dem Zeitstempel - bitte bewahren Sie diese
 Mail auf.
 
-Achten Sie darauf, dass Sie eine unterschriebene [Eigenständigkeitserklärung] in der
-Arbeit (PDF) unterbringen müssen.
+Achten Sie darauf, dass Sie eine unterschriebene Eigenständigkeitserklärung [@EigenSperrBA]
+in der Arbeit (PDF) unterbringen müssen.
 
-In der alten Prüfungsordnung ([SPO-BA 18]) steht noch in §26, dass Sie fristgerecht
-zwei ausgedruckte und gebundene Exemplare beim Studierendenservice einreichen müssen
-und die Online-Abgabe lediglich _zusätzlich_ erfolgt. Die derzeitige Praxis ist aber,
-dass Sie einfach ein PDF online abgeben.
+In der alten Prüfungsordnung steht noch, dass Sie fristgerecht zwei ausgedruckte
+und gebundene Exemplare beim Studierendenservice einreichen müssen und die
+Online-Abgabe lediglich _zusätzlich_ erfolgt [vgl. @SPO-BA18{}, §26]. Die gelebte
+Praxis ist aber, dass Sie nur ein PDF online abgeben.
 **Besprechen Sie dies bitte rechtzeitig von Abgabe mit Ihrer Erstprüfer:in!**
-In der neuen Prüfungsordnung ([SPO-BA 23]) findet sich in §25 nur noch die
-elektronische Abgabe.
+In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
+[@SPO-BA23{}, §25].
 :::
 
 ## Hinweise Sperrvermerk und Source-Code
@@ -245,9 +244,9 @@ elektronische Abgabe.
     Die Arbeit ist nur den Prüfern bzw. den Korrektoren sowie den Mitgliedern des
     Prüfungsausschusses bzw. der oder dem Prüfungsbeauftragten zugänglich zu machen".
 
-
-    In der [Vorlage für Abschlussarbeiten] ist ein Sperrvermerk bereits vorgesehen und kann
-    einfach aktiviert werden.
+    In der Vorlage für Abschlussarbeiten [@TemplateBA] ist ein Sperrvermerk bereits vorgesehen
+    und kann einfach aktiviert werden. Sie finden auch auf der zweiten Seite des Formulars der
+    Eigenständigkeitserklärung einen entsprechenden Vordruck [@EigenSperrBA].
 
     Sprechen Sie die Notwendigkeit eines solchen Sperrvermerks rechtzeitig mit Ihrem Unternehmen
     ab! Informieren Sie auch Ihre Erstprüfer:in.
@@ -280,8 +279,8 @@ Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle A
 ### Start
 
 -   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden
--   Beachten Sie die Fortschrittsregelung lt. [SPO-BA 18] bzw. [SPO-BA 23]
--   Beginn nicht frei definierbar: Die Bearbeitungszeit beginnt, sobald der Antrag
+-   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18; @SPO-BA23]]{.notes}
+-   Beginn nicht frei wählbar: Die Bearbeitungszeit beginnt, sobald [der]{.notes} Antrag
     angenommen wurde
 -   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
     durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
@@ -291,8 +290,8 @@ Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle A
 
 ### Verlängerung der Bearbeitungszeit in Ausnahmefällen
 
--   [Antrag auf Fristverlängerung] gemäß [RPO-BA] § 28 (3) beim vorsitzenden Mitglied  des
-    Prüfungsausschusses stellen (Nachweise!)
+-   Antrag auf Fristverlängerung beim vorsitzenden Mitglied des Prüfungsausschusses stellen
+    (Nachweise!) [[vgl. @RPO-BA{}, § 28 (3)]]{.notes}
 
     ::: notes
     Bei während der Bearbeitungsfrist eintretenden Ausnahmefällen (etwa eine akute Erkrankung,
@@ -300,7 +299,7 @@ Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle A
     macht), kann der Prüfungsausschuss auf einen vor Ablauf der Frist gestellten begründeten
     Antrag die Bearbeitungszeit um bis zu drei Wochen verlängern.
 
-    Nutzen Sie dazu das Formular: [Antrag auf Fristverlängerung].
+    Nutzen Sie dazu das Formular: Antrag auf Fristverlängerung [@VerlBA].
 
     Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
     :::
@@ -320,24 +319,3 @@ Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle A
 * * * * *
 **Viel Erfolg :-)**
 :::
-
-
-[SPO-BA 18]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2022%29.pdf
-
-[SPO-BA 23]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Entwurf+Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+2023.pdf
-
-[RPO-BA]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Rahmenpr%C3%BCfungsordnung+Bachelorstudieng%C3%A4nge.pdf
-
-[Antrag auf Zulassung zur Bachelorarbeit]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf
-
-[HSBI-Stellenportal]: https://www.hsbi.de/stellenportal
-
-[Mint-Mentoring]: https://www.owl-maschinenbau.de/mint-mentoring/
-
-[Vorlage für Abschlussarbeiten]: https://github.com/cagix/pandoc-thesis
-
-[Einreichung von schriftlichen Arbeiten]: https://www.hsbi.de/hochschule/schriftliche-arbeiten
-
-[Eigenständigkeitserklärung]: https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Eigenst%C3%A4ndigkeitserkl%C3%A4rung.pdf
-
-[Antrag auf Fristverlängerung]: https://www.hsbi.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/Fristverl%C3%A4ngerung+f%C3%BCr+die+Abgabe+der+Bachelorarbeit.pdf
