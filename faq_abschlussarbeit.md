@@ -153,11 +153,11 @@ den Stand der Arbeiten zu informieren!
 ## Aufbau der Arbeit? Gibt es eine Vorlage?
 
 -   Anforderungen gemäß Studiengangsprüfungsordnung: Seitenumfang 30 bis 80 Seiten
-    [[@SPO-BA18; @SPO-BA23]]{.notes}
+    [[@SPO-BA18{} §23 (2); @SPO-BA23{} §22 (2)]]{.notes}
 
     ::: notes
     Es zählen nur die reinen Textseiten. Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier
-    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{}, §9 (1)]).
+    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{}, §9 (1)].
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
     Sprechen Sie dies mit Ihren Prüfer:innen ab!
@@ -279,7 +279,7 @@ Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle A
 ### Start
 
 -   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden
--   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18; @SPO-BA23]]{.notes}
+-   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18{} §24; @SPO-BA23{} §23]]{.notes}
 -   Beginn nicht frei wählbar: Die Bearbeitungszeit beginnt, sobald [der]{.notes} Antrag
     angenommen wurde
 -   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
