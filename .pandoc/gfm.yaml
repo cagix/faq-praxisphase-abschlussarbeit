@@ -9,7 +9,6 @@ metadata:
   link-citations: true
 
 strip-comments: true
-standalone: true
 wrap: preserve
 
 filters:
