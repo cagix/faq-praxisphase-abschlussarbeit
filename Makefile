@@ -34,7 +34,6 @@ PANDOC           = pandoc
 ## XDG_DATA_HOME can be set externally
 XDG_DATA_HOME ?= $(HOME)/.local/share
 PANDOC_DIRS = --resource-path=".:$(XDG_DATA_HOME)/pandoc/:$(XDG_DATA_HOME)/pandoc/resources/"
-HUGO_DIRS   = --themesDir "$(XDG_DATA_HOME)/pandoc/hugo"
 
 
 #--------------------------------------------------------------------------------
