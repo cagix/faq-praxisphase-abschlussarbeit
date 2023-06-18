@@ -79,7 +79,10 @@ slides: $(OUTPUT_DIR) $(SLIDES_TARGETS) ## Create all slides
 gfm: $(OUTPUT_DIR) $(OUTPUT_DIR)/$(IMG_DIR) $(GFM_TARGETS) $(GFM_IMG_TARGETS) ## Create GitHub-Markdown
 
 .PHONY: book
-book: $(OUTPUT_DIR) $(INTERN_TEMPLATE) $(BOOK_Target) ## Create a book (needs internal template!)
+book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
+
+.PHONY: book_internal
+book_internal: $(OUTPUT_DIR) $(INTERN_TEMPLATE) $(BOOK_Target) ## Create a book (needs internal template!)
 
 
 .PHONY: clean

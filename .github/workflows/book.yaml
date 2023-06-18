@@ -1,0 +1,25 @@
+name: BOOK
+on:
+  # push on master branch: build book (pandoc)
+  push:
+    branches: [master]
+  # manually triggered: build book (pandoc)
+  workflow_dispatch:
+
+
+jobs:
+  # build book format (pandoc): "make book"
+  book:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: cagix/pandoc-lecture@master
+      - run: make book
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: _book
+          publish_dir: docs/
+          force_orphan: true
