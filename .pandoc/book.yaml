@@ -1,16 +1,15 @@
 from: markdown+lists_without_preceding_blankline+rebase_relative_paths
 to: docx
-reference-doc: .pandoc/hsbi.docx
+#reference-doc: .pandoc/hsbi.docx
 
 metadata-file: metadata.yaml
 
 citeproc: true
 metadata:
-  csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
   link-citations: true
 
 strip-comments: true
-standalone: true
 wrap: preserve
 
 filters:

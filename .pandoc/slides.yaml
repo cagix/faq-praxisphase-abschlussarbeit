@@ -5,12 +5,12 @@ metadata-file: metadata.yaml
 
 citeproc: true
 metadata:
-  csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #cls: https://www.zotero.org/styles/springer-basic-author-date
   link-citations: false
   suppress-bibliography: true
 
 strip-comments: true
-standalone: true
 wrap: preserve
 slide-level: 2
 
