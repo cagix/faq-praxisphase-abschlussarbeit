@@ -200,9 +200,9 @@ den Stand der Arbeiten zu informieren!
 
 **Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Prüfer:innen!
 
-## Was muss ich hinterher einreichen?
+## Abgabe: Was muss ich hinterher einreichen?
 
--   Formale Abgabe: Online über "Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
+-   Formale Abgabe: Online über "Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
     -   Schriftliche Ausarbeitung (30 bis 80 Seiten) als PDF
     -   Unterschriebene Eigenständigkeitserklärung [[@EigenSperrBA]]{.notes} im PDF
 
