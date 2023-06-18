@@ -213,9 +213,9 @@ den Stand der Arbeiten zu informieren!
 ::: notes
 Ihre Bachelorarbeit müssen Sie **fristgerecht** (vor Ablauf der Abgabefrist) beim
 Studierendenservice einreichen. Dies geschieht derzeit über die HSBI-Webseite
-"Einreichung von schriftlichen Arbeiten" [@EinreichungBA].
-Sie erhalten eine Bestätigungsmail mit dem Zeitstempel - bitte bewahren Sie diese
-Mail auf.
+"HSBI.de > Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten"
+[@EinreichungBA]. Sie erhalten eine Bestätigungsmail mit dem Zeitstempel - bitte
+bewahren Sie diese Mail auf.
 
 Achten Sie darauf, dass Sie eine unterschriebene Eigenständigkeitserklärung [@EigenSperrBA]
 in der Arbeit (PDF) unterbringen müssen.
