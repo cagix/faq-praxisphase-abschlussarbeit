@@ -7,12 +7,12 @@ title: "FAQ: Abschlussarbeit"
 ::: notes
 Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
 
--   Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld [@RPO-BA]:
+-   @RPO-BA:
     -   Kapitel "V. Bachelorarbeit"
--   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 23) [@SPO-BA23]:
+-   @SPO-BA23:
     -   §22 bis §26
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
--   Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik (Version 18) [@SPO-BA18]:
+-   @SPO-BA18:
     -   §23 bis §27
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
 :::
