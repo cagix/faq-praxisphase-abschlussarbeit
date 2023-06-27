@@ -11,7 +11,10 @@ metadata:
 
 strip-comments: true
 wrap: preserve
+toc: true
+standalone: true
 
 filters:
-- title2h1.lua
-- prepareHandout.lua
+  - title2h1.lua
+  - prepareHandout.lua
+  - removeMetadata.lua
