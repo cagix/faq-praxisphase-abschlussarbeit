@@ -11,6 +11,7 @@ metadata:
 
 strip-comments: true
 wrap: preserve
+shift-heading-level-by: +1
 
 filters:
   - prepareHandout.lua

@@ -2,6 +2,8 @@
 title: "FAQ: Abschlussarbeit"
 ---
 
+# Überblick und Einordnung
+
 ## Worum geht es in der Bachelorarbeit?
 
 ::: notes
@@ -44,7 +46,7 @@ deutlich von der Bearbeitungszeit der Bachelorarbeit (Zeitraum zwischen Anmeldun
 Beendigung) unterscheiden!
 :::
 
-\smallskip
+\bigskip
 
 ### Intern: Labor oder Forschungsprojekt
 
@@ -56,9 +58,7 @@ Häufig absolvieren Sie hier lediglich die Prüfungsleistung, d.h. Sie werden ni
 Forschungsprojekt eingestellt.
 :::
 
-\bigskip
-
-### Betreuer:innen und Prüfer:innen
+## Betreuer:innen und Prüfer:innen
 
 -   Erstprüfer:in: Dozent:in im Studiengang (HSBI)
 -   Zweitprüfer:in:
@@ -66,15 +66,18 @@ Forschungsprojekt eingestellt.
     -   interne Arbeiten: Dozent:in aus dem Studiengang
 
 ::: notes
-Für die Rolle als Zweitprüfer:in müssen die Personen mindestens den angestrebten Abschluss oder eine
-vergleichbare Qualifikation haben [vgl. @RPO-BA{}, §10 (1)].
+Für die Rolle als Zweitprüfer:in müssen die Personen mindestens den angestrebten Abschluss
+oder eine vergleichbare Qualifikation haben [vgl. @RPO-BA{}, §10 (1)].
 
 Sie müssen sich selbst um Erstprüfer:in und Zweitprüfer:in kümmern und diese auf Ihrem
 Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] angeben und unterschreiben lassen.
+
+In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 :::
 
+# Vorbereitung
 
-## Wie finde ich ein Thema und Betreuer?
+## Wie finde ich ein Thema und Betreuer:innen?
 
 -   **Nutzen Sie die Praxisphase: Kontakt in der jeweiligen Firma!**
 
@@ -143,6 +146,20 @@ Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] angeben und unterschreiben l
     Beteiligten abgesprochen
 :::
 
+::: notes
+## Bemerkungen zum Start der Bachelorarbeit
+
+-   Bearbeitungszeitraum der Bachelorarbeit nicht an Vorlesungszeiten gebunden
+-   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18{} §24; @SPO-BA23{} §23]]{.notes}
+-   Beginn nicht frei wählbar: Die Bearbeitungszeit beginnt, sobald [der]{.notes} Antrag
+    angenommen wurde
+-   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
+    durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
+    Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
+:::
+
+# Während der Arbeit
+
 ## Welche Termine gibt es während der Bearbeitungszeit?
 
 Das ist abhängig von Ihren Betreuer:innen. Besprechen Sie dies rechtzeitig mit beiden Prüfer:innen!
@@ -200,6 +217,8 @@ den Stand der Arbeiten zu informieren!
 
 **Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Prüfer:innen!
 
+# Abgabe
+
 ## Abgabe: Was muss ich hinterher einreichen?
 
 -   Formale Abgabe: Online über "Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
@@ -229,7 +248,7 @@ In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
 [@SPO-BA23{}, §25].
 :::
 
-## Hinweise Sperrvermerk und Source-Code
+## Sperrvermerk und Source-Code
 
 -   Sensible Unternehmensdaten: Sperrvermerk einfügen (Absprache mit der Firma!)
 
@@ -274,46 +293,32 @@ Wert überschreitet, wird noch eine dritte Prüfer:in hinzugezogen.
 Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle Anforderungen.
 :::
 
-## Was muss ich sonst noch beachten?
+# Sonstige Hinweise
 
-### Start
+## Verlängerung der Bearbeitungszeit in Ausnahmefällen
 
--   Bearbeitung der Bachelorarbeit nicht an Vorlesungszeiten gebunden
--   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18{} §24; @SPO-BA23{} §23]]{.notes}
--   Beginn nicht frei wählbar: Die Bearbeitungszeit beginnt, sobald [der]{.notes} Antrag
-    angenommen wurde
--   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
-    durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
-    Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
+Antrag auf Fristverlängerung beim vorsitzenden Mitglied des Prüfungsausschusses stellen
+(Nachweise!) [[vgl. @RPO-BA{}, § 28 (3)]]{.notes}
 
-\smallskip
+::: notes
+Bei während der Bearbeitungsfrist eintretenden Ausnahmefällen (etwa eine akute Erkrankung,
+die die weitere Bearbeitung der Bachelorarbeit temporär stark erschwert oder unmöglich
+macht), kann der Prüfungsausschuss auf einen vor Ablauf der Frist gestellten begründeten
+Antrag die Bearbeitungszeit um bis zu drei Wochen verlängern.
 
-### Verlängerung der Bearbeitungszeit in Ausnahmefällen
+Nutzen Sie dazu das Formular: Antrag auf Fristverlängerung [@VerlBA].
 
--   Antrag auf Fristverlängerung beim vorsitzenden Mitglied des Prüfungsausschusses stellen
-    (Nachweise!) [[vgl. @RPO-BA{}, § 28 (3)]]{.notes}
+Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
+:::
 
-    ::: notes
-    Bei während der Bearbeitungsfrist eintretenden Ausnahmefällen (etwa eine akute Erkrankung,
-    die die weitere Bearbeitung der Bachelorarbeit temporär stark erschwert oder unmöglich
-    macht), kann der Prüfungsausschuss auf einen vor Ablauf der Frist gestellten begründeten
-    Antrag die Bearbeitungszeit um bis zu drei Wochen verlängern.
+## Nachteilsausgleich
 
-    Nutzen Sie dazu das Formular: Antrag auf Fristverlängerung [@VerlBA].
+Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben können Sie einen
+Nachteilsausgleich beantragen
 
-    Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
-    :::
-
-\smallskip
-
-### Nachteilsausgleich
-
--   Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben können Sie einen
-    Nachteilsausgleich beantragen
-
-    ::: notes
-    Siehe [FAQ zum Nachteilsausgleich](faq_nachteilsausgleich.md)
-    :::
+::: notes
+Siehe [FAQ zum Nachteilsausgleich](faq_nachteilsausgleich.md)
+:::
 
 ::: slides
 * * * * *

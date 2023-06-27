@@ -13,6 +13,7 @@ strip-comments: true
 wrap: preserve
 toc: true
 standalone: true
+shift-heading-level-by: +1
 
 filters:
   - title2h1.lua
