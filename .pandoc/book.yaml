@@ -13,4 +13,4 @@ strip-comments: true
 wrap: preserve
 
 filters:
-- prepareHandout.lua
+  - prepareHandout.lua
