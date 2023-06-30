@@ -1,6 +1,4 @@
----
-title: "FAQ: Nachteilsausgleich"
----
+# FAQ: Nachteilsausgleich
 
 ## Antrag auf Nachteilsausgleich
 
