@@ -17,20 +17,17 @@ Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
 :::
 
-#### Ziel
-
-Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit wissenschaftlichen
-Methoden innerhalb einer vorgegebenen Frist
+**Ziel**: Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit
+wissenschaftlichen Methoden innerhalb einer vorgegebenen Frist
 
 \bigskip
+\smallskip
 
-#### Umfang
-
-3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
+**Umfang**: 3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
 
 ### Wo kann ich meine Bachelorarbeit durchführen?
 
-#### Extern: Firma
+**Extern**: Firma
 
 ::: notes
 Häufig wird die Bachelorarbeit in einer Firma durchgeführt.
@@ -38,15 +35,16 @@ Häufig wird die Bachelorarbeit in einer Firma durchgeführt.
 Dazu wird in der Regel ein Vertrag zwischen Ihnen und der Firma abgeschlossen, in dem auch die
 Vertragslaufzeit, wöchentliche Arbeitszeit und das Entgeld geregelt werden.
 
-**Hinweis:** Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der Prüfungsleistung
+_Anmerkung_: Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der Prüfungsleistung
 "Bachelorarbeit" an der HSBI zu tun. Im Extremfall kann sich beispielsweise die Vertragslaufzeit
 deutlich von der Bearbeitungszeit der Bachelorarbeit (Zeitraum zwischen Anmeldung/Genehmigung und
 Beendigung) unterscheiden!
 :::
 
 \bigskip
+\smallskip
 
-#### Intern: Labor oder Forschungsprojekt
+**Intern**: Labor oder Forschungsprojekt
 
 ::: notes
 Sie können je nach Angebot die Bachelorarbeit aber auch in der Hochschule in einem Labor oder einem
