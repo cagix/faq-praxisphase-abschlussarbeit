@@ -12,7 +12,8 @@ metadata:
 
 strip-comments: true
 wrap: preserve
-slide-level: 2
+
+shift-heading-level-by: -1
 
 pdf-engine: pdflatex
 pdf-engine-opt: '-shell-escape'
