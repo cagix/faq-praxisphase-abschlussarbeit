@@ -32,8 +32,8 @@ PANDOC           = pandoc
 ##     (b) If we are running locally (native installation), we look for the
 ##         files at ${HOME}/.local/share/pandoc/.
 ## XDG_DATA_HOME can be set externally
-XDG_DATA_HOME ?= $(HOME)/.local/share
-PANDOC_DIRS = --resource-path=".:$(XDG_DATA_HOME)/pandoc/:$(XDG_DATA_HOME)/pandoc/resources/"
+XDG_DATA_HOME   ?= $(HOME)/.local/share
+PANDOC_DIRS      = --resource-path=".:$(XDG_DATA_HOME)/pandoc/:$(XDG_DATA_HOME)/pandoc/resources/"
 
 
 #--------------------------------------------------------------------------------
@@ -42,7 +42,6 @@ PANDOC_DIRS = --resource-path=".:$(XDG_DATA_HOME)/pandoc/:$(XDG_DATA_HOME)/pando
 MARKDOWN_SOURCES = README.md faq_praxisphase.md faq_abschlussarbeit.md faq_nachteilsausgleich.md
 GFM_IMAGES		 = $(shell find $(IMG_DIR) -type f -iname '*.png')
 LICENSE_SLIDE    = .license_slide.md
-INTERN_TEMPLATE  = $(PANDOC_CONF)/hsbi.docx
 IMG_DIR          = img
 OUTPUT_DIR       = docs
 PANDOC_CONF      = .pandoc
@@ -51,7 +50,6 @@ SLIDES_TARGETS   = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
 GFM_TARGETS      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.md)
 GFM_IMG_TARGETS  = $(GFM_IMAGES:$(IMG_DIR)/%.png=$(OUTPUT_DIR)/$(IMG_DIR)/%.png)
 BOOK_Target      = $(OUTPUT_DIR)/IFM_FAQ_Praxisphase_Bachelorarbeit.docx
-BOOK_TMP_FILES   = $(MARKDOWN_SOURCES:%.md=__%.md)
 
 
 #--------------------------------------------------------------------------------
@@ -81,13 +79,9 @@ gfm: $(OUTPUT_DIR) $(OUTPUT_DIR)/$(IMG_DIR) $(GFM_TARGETS) $(GFM_IMG_TARGETS) ##
 .PHONY: book
 book: $(OUTPUT_DIR) $(BOOK_Target) ## Create a book
 
-.PHONY: book_internal
-book_internal: $(OUTPUT_DIR) $(INTERN_TEMPLATE) $(BOOK_Target) ## Create a book (needs internal template!)
-
 
 .PHONY: clean
 clean: ## Clean up intermediate files
-	rm -rf $(BOOK_TMP_FILES)
 
 .PHONY: distclean
 distclean: clean ## Clean up intermediate files and generated artifacts
@@ -112,8 +106,5 @@ $(GFM_TARGETS): $(OUTPUT_DIR)/%.md: %.md $(LICENSE_SLIDE)
 $(GFM_IMG_TARGETS): $(OUTPUT_DIR)/$(IMG_DIR)/%.png: $(IMG_DIR)/%.png
 	cp $^ $@
 
-$(BOOK_Target): $(BOOK_TMP_FILES) $(LICENSE_SLIDE)
+$(BOOK_Target): $(MARKDOWN_SOURCES) $(LICENSE_SLIDE)
 	$(PANDOC) $(PANDOC_DIRS) -d $(PANDOC_CONF)/book   $^ -o $@
-
-$(BOOK_TMP_FILES): __%.md: %.md
-	$(PANDOC) $(PANDOC_DIRS) -L title2h1.lua -s $< -o $@

@@ -1,10 +1,8 @@
----
-title: "FAQ: Abschlussarbeit"
----
+# FAQ: Abschlussarbeit
 
-# Überblick und Einordnung
+## Überblick und Einordnung
 
-## Worum geht es in der Bachelorarbeit?
+### Worum geht es in der Bachelorarbeit?
 
 ::: notes
 Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
@@ -19,20 +17,17 @@ Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
 :::
 
-### Ziel
-
-Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit wissenschaftlichen
-Methoden innerhalb einer vorgegebenen Frist
+**Ziel**: Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit
+wissenschaftlichen Methoden innerhalb einer vorgegebenen Frist
 
 \bigskip
+\smallskip
 
-### Umfang
+**Umfang**: 3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
 
-3 Monate [(12 Wochen)]{.notes} mit 12 ECTS Arbeitsaufwand (Vollzeit, ohne Unterbrechung: 360h)
+### Wo kann ich meine Bachelorarbeit durchführen?
 
-## Wo kann ich meine Bachelorarbeit durchführen?
-
-### Extern: Firma
+**Extern**: Firma
 
 ::: notes
 Häufig wird die Bachelorarbeit in einer Firma durchgeführt.
@@ -40,15 +35,16 @@ Häufig wird die Bachelorarbeit in einer Firma durchgeführt.
 Dazu wird in der Regel ein Vertrag zwischen Ihnen und der Firma abgeschlossen, in dem auch die
 Vertragslaufzeit, wöchentliche Arbeitszeit und das Entgeld geregelt werden.
 
-**Hinweis:** Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der Prüfungsleistung
+_Anmerkung_: Dieser Vertrag ist Ihre Privatangelegenheit und hat nichts mit der Prüfungsleistung
 "Bachelorarbeit" an der HSBI zu tun. Im Extremfall kann sich beispielsweise die Vertragslaufzeit
 deutlich von der Bearbeitungszeit der Bachelorarbeit (Zeitraum zwischen Anmeldung/Genehmigung und
 Beendigung) unterscheiden!
 :::
 
 \bigskip
+\smallskip
 
-### Intern: Labor oder Forschungsprojekt
+**Intern**: Labor oder Forschungsprojekt
 
 ::: notes
 Sie können je nach Angebot die Bachelorarbeit aber auch in der Hochschule in einem Labor oder einem
@@ -58,7 +54,7 @@ Häufig absolvieren Sie hier lediglich die Prüfungsleistung, d.h. Sie werden ni
 Forschungsprojekt eingestellt.
 :::
 
-## Betreuer:innen und Prüfer:innen
+### Betreuer:innen und Prüfer:innen
 
 -   Erstprüfer:in: Dozent:in im Studiengang (HSBI)
 -   Zweitprüfer:in:
@@ -75,9 +71,9 @@ Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] angeben und unterschreiben l
 In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 :::
 
-# Vorbereitung
+## Vorbereitung
 
-## Wie finde ich ein Thema und Betreuer:innen?
+### Wie finde ich ein Thema und Betreuer:innen?
 
 -   **Nutzen Sie die Praxisphase: Kontakt in der jeweiligen Firma!**
 
@@ -89,7 +85,7 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 -   Mint-Mentoring [[@MintMentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))]{.notes}
 -   Stellenanzeigen (Internet, Zeitungen, HSBI-Stellenportal[ [@Stellenportal]]{.notes}, Schwarze Bretter)
 
-## Wie starte ich in meine Bachelorarbeit?
+### Wie starte ich in meine Bachelorarbeit?
 
 ![Zeitlicher Ablauf Bachelorarbeit](img/screenshot_prozess_bachelorarbeit.png){width="80%"}
 
@@ -132,7 +128,7 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 :::
 
 ::: notes
-## Voraussetzungen für die Anmeldung der Bachelorarbeit
+### Voraussetzungen für die Anmeldung der Bachelorarbeit
 
 -   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA18{}, §10 (1)]
 -   Sie haben eine Person aus dem Kreis der Dozent:innen im Studiengang gefunden, die bereit ist,
@@ -147,7 +143,7 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 :::
 
 ::: notes
-## Bemerkungen zum Start der Bachelorarbeit
+### Bemerkungen zum Start der Bachelorarbeit
 
 -   Bearbeitungszeitraum der Bachelorarbeit nicht an Vorlesungszeiten gebunden
 -   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18{} §24; @SPO-BA23{} §23]]{.notes}
@@ -158,16 +154,16 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
     Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
 :::
 
-# Während der Arbeit
+## Während der Arbeit
 
-## Welche Termine gibt es während der Bearbeitungszeit?
+### Welche Termine gibt es während der Bearbeitungszeit?
 
 Das ist abhängig von Ihren Betreuer:innen. Besprechen Sie dies rechtzeitig mit beiden Prüfer:innen!
 
 **Hinweis**: Es bietet sich an, regelmäßig den Kontakt zu beiden Prüfer:innen zu suchen und sie über
 den Stand der Arbeiten zu informieren!
 
-## Aufbau der Arbeit? Gibt es eine Vorlage?
+### Aufbau der Arbeit? Gibt es eine Vorlage?
 
 -   Anforderungen gemäß Studiengangsprüfungsordnung: Seitenumfang 30 bis 80 Seiten
     [[@SPO-BA18{} §23 (2); @SPO-BA23{} §22 (2)]]{.notes}
@@ -217,9 +213,9 @@ den Stand der Arbeiten zu informieren!
 
 **Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Prüfer:innen!
 
-# Abgabe
+## Abgabe
 
-## Abgabe: Was muss ich hinterher einreichen?
+### Abgabe: Was muss ich hinterher einreichen?
 
 -   Formale Abgabe: Online über "Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
     -   Schriftliche Ausarbeitung (30 bis 80 Seiten) als PDF
@@ -248,7 +244,7 @@ In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
 [@SPO-BA23{}, §25].
 :::
 
-## Sperrvermerk und Source-Code
+### Sperrvermerk und Source-Code
 
 -   Sensible Unternehmensdaten: Sperrvermerk einfügen (Absprache mit der Firma!)
 
@@ -281,7 +277,7 @@ In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
     zugreifbares Repo.
     :::
 
-## Bekomme ich eine Note?
+### Bekomme ich eine Note?
 
 JA :-)
 
@@ -293,9 +289,9 @@ Wert überschreitet, wird noch eine dritte Prüfer:in hinzugezogen.
 Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle Anforderungen.
 :::
 
-# Sonstige Hinweise
+## Sonstige Hinweise
 
-## Verlängerung der Bearbeitungszeit in Ausnahmefällen
+### Verlängerung der Bearbeitungszeit in Ausnahmefällen
 
 Antrag auf Fristverlängerung beim vorsitzenden Mitglied des Prüfungsausschusses stellen
 (Nachweise!) [[vgl. @RPO-BA{}, § 28 (3)]]{.notes}
@@ -311,7 +307,7 @@ Nutzen Sie dazu das Formular: Antrag auf Fristverlängerung [@VerlBA].
 Wichtig: Die angeführten Gründe müssen geeignet nachgewiesen werden!
 :::
 
-## Nachteilsausgleich
+### Nachteilsausgleich
 
 Bei Einschränkungen durch gesundheitliche Probleme oder Familienaufgaben können Sie einen
 Nachteilsausgleich beantragen

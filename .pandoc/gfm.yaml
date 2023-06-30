@@ -9,13 +9,13 @@ metadata:
   #cls: https://www.zotero.org/styles/springer-basic-author-date
   link-citations: true
 
+standalone: true
 strip-comments: true
 wrap: preserve
+
 toc: true
-standalone: true
-shift-heading-level-by: +1
+toc-depth: 2
 
 filters:
-  - title2h1.lua
   - prepareHandout.lua
   - removeMetadata.lua

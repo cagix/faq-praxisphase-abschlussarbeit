@@ -1,6 +1,4 @@
----
-title: "FAQ: Praxisphase"
----
+# FAQ: Praxisphase
 
 ## Worum geht's in der Praxisphase?
 
