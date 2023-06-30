@@ -25,9 +25,5 @@ variables:
     - numbering=none
     - progressbar=foot
 
-include-in-header:
-  - resources/definitions.tex
-
 filters:
   - prepareSlides.lua
-  - tex.lua
