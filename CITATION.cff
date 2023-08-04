@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'FAQ: Praxisphase und Abschlussarbeit'
+message: >-
+  If you use this material, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carsten
+    family-names: Gips
+    email: cagix@hsbi.de
+    affiliation: HSBI
+    orcid: 'https://orcid.org/0000-0002-4230-9060'
+repository-code: 'https://github.com/cagix/faq-praxisphase-abschlussarbeit'
+url: >-
+  https://www.fh-bielefeld.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/FAQ+zu+Praxisphase+und+Bachelorarbeit.pdf
+abstract: >-
+  The purpose of this document is to answer the most
+  frequently asked questions about the module "Praxisphase"
+  and your Bachelor's thesis.
+keywords:
+  - bachelor thesis
+  - oer
+license: CC-BY-SA-4.0
