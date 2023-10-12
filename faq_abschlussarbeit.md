@@ -260,8 +260,7 @@ In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
     Prüfungsausschusses bzw. der oder dem Prüfungsbeauftragten zugänglich zu machen".
 
     In der Vorlage für Abschlussarbeiten [@TemplateBA] ist ein Sperrvermerk bereits vorgesehen
-    und kann einfach aktiviert werden. Sie finden auch auf der zweiten Seite des Formulars der
-    Eigenständigkeitserklärung einen entsprechenden Vordruck [@EigenSperrBA].
+    und kann einfach aktiviert werden.
 
     Sprechen Sie die Notwendigkeit eines solchen Sperrvermerks rechtzeitig mit Ihrem Unternehmen
     ab! Informieren Sie auch Ihre Erstprüfer:in.
