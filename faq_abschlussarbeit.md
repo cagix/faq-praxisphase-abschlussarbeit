@@ -130,7 +130,7 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 ::: notes
 ### Voraussetzungen für die Anmeldung der Bachelorarbeit
 
--   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA18{}, §10 (1)]
+-   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA18{} §10 (1)]
 -   Sie haben eine Person aus dem Kreis der Dozent:innen im Studiengang gefunden, die bereit ist,
     Ihre Bachelorarbeit zu betreuen ("HSBI-interne Betreuer:in") und die Rolle der Erstprüfer:in zu
     übernehmen
@@ -170,7 +170,7 @@ den Stand der Arbeiten zu informieren!
 
     ::: notes
     Es zählen nur die reinen Textseiten. Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier
-    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{}, §9 (1)].
+    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{} §9 (1); @SPO-BA23{} §9].
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
     Sprechen Sie dies mit Ihren Prüfer:innen ab!
@@ -237,11 +237,11 @@ in der Arbeit (PDF) unterbringen müssen.
 
 In der alten Prüfungsordnung steht noch, dass Sie fristgerecht zwei ausgedruckte
 und gebundene Exemplare beim Studierendenservice einreichen müssen und die
-Online-Abgabe lediglich _zusätzlich_ erfolgt [vgl. @SPO-BA18{}, §26]. Die gelebte
+Online-Abgabe lediglich _zusätzlich_ erfolgt [vgl. @SPO-BA18{} §26]. Die gelebte
 Praxis ist aber, dass Sie nur ein PDF online abgeben.
 **Besprechen Sie dies bitte rechtzeitig von Abgabe mit Ihrer Erstprüfer:in!**
 In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
-[@SPO-BA23{}, §25].
+[@SPO-BA23{} §25].
 :::
 
 ### Sperrvermerk und Source-Code
