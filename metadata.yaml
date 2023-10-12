@@ -25,15 +25,15 @@ references:
   title: "Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik an der Fachhochschule Bielefeld (Version 18)"
   issued: 2022-09-12
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2022%29.pdf"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: SPO-BA23
   type: webpage
   language: de
-  title: "Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik an der Hochschule Bielefeld (Version 23)"
-  issued: 2023
-  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Entwurf+Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+2023.pdf"
-  accessed: 2023-06-09
+  title: "Studiengangsprüfungsordnung (SPO) für den Bachelorstudiengang Informatik an der Hochschule Bielefeld (Version 23)"
+  issued: 2023-09-01
+  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+2023.pdf"
+  accessed: 2023-10-12
 
 - id: RPO-BA
   type: webpage
@@ -41,54 +41,54 @@ references:
   title: "Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld"
   issued: 2022-03-30
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Rahmenpr%C3%BCfungsordnung+Bachelorstudieng%C3%A4nge.pdf"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: AntragBA
   type: webpage
   language: de
   title: "Antrag auf Zulassung zur Bachelor-Arbeit"
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: VerlBA
   type: webpage
   language: de
   title: "Antrag auf Fristverlängerung für die Abgabe der Bachelorarbeit"
   url: "https://www.hsbi.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/Fristverl%C3%A4ngerung+f%C3%BCr+die+Abgabe+der+Bachelorarbeit.pdf"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: EigenSperrBA
   type: webpage
   language: de
-  title: "Eigenständigkeitserklärung und Sperrvermerk"
-  issued: 2022-11-29
+  title: "Eigenständigkeitserklärung"
+  issued: 2023-10
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Eigenst%C3%A4ndigkeitserkl%C3%A4rung.pdf"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: EinreichungBA
   type: webpage
   language: de
   title: "Einreichung von schriftlichen Arbeiten (HSBI)"
   url: "https://www.hsbi.de/hochschule/schriftliche-arbeiten"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: TemplateBA
   type: webpage
   language: de
   title: "pandoc-thesis - A Template for Thesis Documents written in Markdown"
   url: "https://github.com/cagix/pandoc-thesis"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: MintMentoring
   type: webpage
   language: de
   title: "mint-mentoring (owl maschinenbau)"
   url: "https://www.owl-maschinenbau.de/mint-mentoring/"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
 
 - id: Stellenportal
   type: webpage
   language: de
   title: "Stellen- und Praxisportal (HSBI)"
   url: "https://www.hsbi.de/stellenportal"
-  accessed: 2023-06-09
+  accessed: 2023-10-12
