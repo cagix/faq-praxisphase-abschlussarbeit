@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: 'FAQ: Praxisphase und Abschlussarbeit'
 message: >-
-  If you use this material, please cite it using the
+  If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
@@ -17,10 +17,6 @@ repository-code: 'https://github.com/cagix/faq-praxisphase-abschlussarbeit'
 url: >-
   https://www.fh-bielefeld.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/FAQ+zu+Praxisphase+und+Bachelorarbeit.pdf
 abstract: >-
-  The purpose of this document is to answer the most
-  frequently asked questions about the module "Praxisphase"
-  and your Bachelor's thesis.
-keywords:
-  - bachelor thesis
-  - oer
+  Dieses Dokument soll Ihnen die wichtigsten Fragen rund um
+  die Praxisphase und die Bachelorarbeit beantworten.
 license: CC-BY-SA-4.0
