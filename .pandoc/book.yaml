@@ -7,6 +7,8 @@ metadata-file: faq.yaml
 citeproc: true
 metadata:
   #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #csl: https://www.zotero.org/styles/acm-sig-proceedings
+  csl: https://www.zotero.org/styles/ieee-with-url
   link-citations: true
 
 strip-comments: true
