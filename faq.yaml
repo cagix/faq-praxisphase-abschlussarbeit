@@ -22,73 +22,166 @@ references:
 - id: SPO-BA18
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Studiengangsprüfungsordnung für den Bachelorstudiengang Informatik an der Fachhochschule Bielefeld (Version 18)"
-  issued: 2022-09-12
-  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+2022%29.pdf"
-  accessed: 2023-10-12
+  issued: 2023-09-01
+  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+18+%28Fassung+09_2023%29-p-169988.pdf"
+  accessed: 2024-09-25
 
 - id: SPO-BA23
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Studiengangsprüfungsordnung (SPO) für den Bachelorstudiengang Informatik an der Hochschule Bielefeld (Version 23)"
   issued: 2023-09-01
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Studiengangspr%C3%BCfungsordnung+und+Modulhandbuch+Bachelor+Informatik+Version+2023.pdf"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: RPO-BA
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Rahmenprüfungsordnung für die Bachelorstudiengänge an der Fachhochschule Bielefeld"
   issued: 2022-03-30
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Rahmenpr%C3%BCfungsordnung+Bachelorstudieng%C3%A4nge.pdf"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: AntragBA
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Antrag auf Zulassung zur Bachelor-Arbeit"
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zur+Bachelorarbeit.pdf"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
+
+- id: AntragPP
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Antrag auf Zulassung zur Praxisphase"
+  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+auf+Zulassung+zu+Praxisphase+und+Auslandssemester.pdf"
+  accessed: 2024-09-25
+
+- id: ZeugnisPP
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Zeugnis Praxisphase"
+  url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Studiengangs_Downloads/Informatik+_+IFM/Antrag+Praxisphasebescheinigung+%28Kurzform%29.pdf"
+  accessed: 2024-09-25
 
 - id: VerlBA
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Antrag auf Fristverlängerung für die Abgabe der Bachelorarbeit"
   url: "https://www.hsbi.de/multimedia/Fachbereiche/Campus+Minden/Studium/Studiengangs_Downloads/Informatik+_+IFM/Fristverl%C3%A4ngerung+f%C3%BCr+die+Abgabe+der+Bachelorarbeit.pdf"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: EigenSperrBA
   type: webpage
   language: de
+  editor:
+  - family: "Hochschule Bielefeld"
   title: "Eigenständigkeitserklärung"
   issued: 2023-10
   url: "https://www.hsbi.de/multimedia/Hochschulverwaltung/Dezernat+II/StudServ/Pr%C3%BCfungsangelegenheiten/Hochschulweite+Ordnungen_+Formulare+und+Antr%C3%A4ge/Eigenst%C3%A4ndigkeitserkl%C3%A4rung.pdf"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: EinreichungBA
   type: webpage
   language: de
-  title: "Einreichung von schriftlichen Arbeiten (HSBI)"
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Einreichung von schriftlichen Arbeiten"
   url: "https://www.hsbi.de/hochschule/schriftliche-arbeiten"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: TemplateBA
   type: webpage
   language: de
+  author:
+  - family: Gips
+    given: C.
   title: "pandoc-thesis - A Template for Thesis Documents written in Markdown"
   url: "https://github.com/cagix/pandoc-thesis"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: MintMentoring
   type: webpage
   language: de
-  title: "mint-mentoring (owl maschinenbau)"
+  editor:
+  - family: "owl maschinenbau"
+  title: "mint-mentoring"
   url: "https://www.owl-maschinenbau.de/mint-mentoring/"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
 
 - id: Stellenportal
   type: webpage
   language: de
-  title: "Stellen- und Praxisportal (HSBI)"
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Stellen- und Praxisportal für Studierende"
   url: "https://www.hsbi.de/stellenportal"
-  accessed: 2023-10-12
+  accessed: 2024-09-25
+
+- id: Nachteilsausgleich
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Nachteilsausgleich"
+  url: "https://www.hsbi.de/hochschule/organisation/beauftragte/gleichstellungsbeauftragte/vereinbarkeit-von-studium/beruf-und-familie/nachteilsausgleich"
+  accessed: 2024-09-25
+
+- id: NachteilsausgleichMerkblatt
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Merkblatt zum Nachteilsausgleich bei Studien- und Prüfungsleistungen für Studierende mit Familienaufgaben"
+  url: "https://www.hsbi.de/multimedia/Beauftragte/Gleichstellungsbeauftragte/Downloads/NTA_Familienaufgaben_endg%C3%BCltig-p-111382.pdf"
+  accessed: 2024-09-25
+
+- id: NachteilsausgleichAntrag
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Antrag auf Nachteilsausgleich für Studierende mit Familienaufgaben"
+  url: "https://www.hsbi.de/multimedia/Beauftragte/Gleichstellungsbeauftragte/Downloads/HSBI_Antrag+auf+Nachteilsausgleich_Familienaufgaben.pdf"
+  accessed: 2024-09-25
+
+- id: Handycap
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Beauftragte für Studierende mit Behinderungen und chronischen Krankheiten"
+  url: "https://www.hsbi.de/beauftragte-fuer-studierende-mit-handicap"
+  accessed: 2024-09-25
+
+- id: HandycapMerkblatt
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Studieren mit Beeinträchtigung - Nachteilsausgleich bei Prüfungsleistungen"
+  url: "https://www.hsbi.de/multimedia/Beauftragte/Beauftragte+f%C3%BCr+Studierende+mit+Behinderungen+und+chronischen+Krankheiten/Informationsblatt+zum+Nachteilsausgleich.pdf"
+  accessed: 2024-09-25
+
+- id: HandycapAntrag
+  type: webpage
+  language: de
+  editor:
+  - family: "Hochschule Bielefeld"
+  title: "Antrag auf Nachteilsausgleich"
+  url: "https://www.hsbi.de/multimedia/Beauftragte/Beauftragte+f%C3%BCr+Studierende+mit+Behinderungen+und+chronischen+Krankheiten/Antrag+Nachteilsausgleich.pdf"
+  accessed: 2024-09-25
