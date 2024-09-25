@@ -1,33 +1,27 @@
 # FAQ: Praxisphase und Abschlussarbeit
 
-## Überblick Prozess Praxisphase
+Dieses Dokument soll Ihnen die wichtigsten Fragen rund um die Praxisphase und die Bachelorarbeit
+beantworten. Es besteht aus drei Teilen:
 
-![Überblick Prozess Praxisphase; Quelle: ursprünglicher Entwurf von Jörn Steinhauer, weiterentwickelt von Christiane Seele (Prüfungsamt Informatik, Minden), neu gezeichnet und weiterentwickelt [Carsten Gips](https://github.com/cagix)](img/screenshot_prozess_praxisphase.png)
-
-## Überblick Prozess Bachelorarbeit
-
-![Überblick Prozess Bachelorarbeit](img/screenshot_prozess_bachelorarbeit.png)
+1.  [FAQ Praxisphase](faq_praxisphase.md)
+    ([slides](https://github.com/cagix/faq-praxisphase-abschlussarbeit/blob/_slides/faq_praxisphase.pdf))
+2.  [FAQ Bachelorarbeit](faq_abschlussarbeit.md)
+    ([slides](https://github.com/cagix/faq-praxisphase-abschlussarbeit/blob/_slides/faq_abschlussarbeit.pdf))
+3.  [Überblick Nachteilsausgleich](faq_nachteilsausgleich.md)
+    ([slides](https://github.com/cagix/faq-praxisphase-abschlussarbeit/blob/_slides/faq_nachteilsausgleich.pdf))
 
 ## Wichtige Dokumente und Anträge
 
 Sie finden die wichtigsten Dokumente und Anträge auf der HSBI-Webseite unter
 [Ordnungen und weitere Dokumente](https://www.hsbi.de/studiengaenge/downloads/informatik-bachelor).
 
-## Weitere Bemerkungen
-
-Dieses Dokument soll Ihnen die wichtigsten Fragen rund um die Praxisphase und die Bachelorarbeit
-beantworten. Im Interesse der leichteren Lesbarkeit und Verständlichkeit wurden einige
-Vereinfachungen vorgenommen:
-
--   Das "Prüfungsamt" ist neuerdings als "Studierendenservice" bekannt.
--   In der vorliegenden ersten Version dieses Studiengang-internen Dokuments wurde zunächst der
-    Fokus auf die Inhalte und die Lesbarkeit/Verständlichkeit gelegt. Natürlich sollen ALLE
-    angesprochen werden, d.h. mit "Betreuer" sind auch Betreuerinnen gemeint, mit "Prüfer" auch
-    alle Prüferinnen, mit "Dozent" auch alle Dozentinnen, ...
-
 ## Erklärvideo
 
 [Direkt-Link HSBI-Medienportal](https://www.hsbi.de/medienportal/m/b91f1872f5727abc899606ab4fdf23bb2d068fbdf61b6b59e4e25254de7272eb5528d8b9721b6bdaa99796527d0fb9673022ee83d6b4d2d19e83b827fd9d55a7)
+
+_Anmerkung_: Das verlinkte Video bezieht sich auf einen älteren Stand der FAQ. Bitte vergleichen Sie deshalb
+die Informationen unbedingt mit der schriftlichen Version der FAQ. Die wichtigsten Punkte haben sich aber
+nicht verändert. (_Ein neues Video ist im Entstehen._)
 
 ## Credits
 
