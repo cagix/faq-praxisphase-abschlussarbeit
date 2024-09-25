@@ -5,16 +5,17 @@
 ### Worum geht es in der Bachelorarbeit?
 
 ::: notes
-Die Bachelorarbeit wird in der Prüfungsordnung geregelt:
+Die Bachelorarbeit wird in der Prüfungsordnung geregelt:[^bemerkung-po-ba]
 
--   @RPO-BA:
+-   Rahmenprüfungsordnung (Bachelor) [@RPO-BA]:
     -   Kapitel "V. Bachelorarbeit"
--   @SPO-BA23:
-    -   §22 bis §26
+-   Studiengangsprüfungsordnung (SPO) [@SPO-BA23]:
+    -   §22 bis §25
     -   Modulbeschreibung zum Modul "Bachelorarbeit"
--   @SPO-BA18:
-    -   §23 bis §27
-    -   Modulbeschreibung zum Modul "Bachelorarbeit"
+
+[^bemerkung-po-ba]: Diese FAQ bezieht sich nur auf die jeweils neueste Prüfungsordnung. Die Aussagen lassen
+sich für die älteren Prüfungsordnungen entsprechend übertragen - schauen Sie bitte entsprechend in der
+für Sie gültigen PO nach!
 :::
 
 **Ziel**: Selbstständige Bearbeitung einer praxisorientierten Aufgabe im Fachgebiet mit
@@ -71,6 +72,19 @@ Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] angeben und unterschreiben l
 In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 :::
 
+### Zeitlicher Ablauf Bachelorarbeit
+
+![Zeitlicher Ablauf Bachelorarbeit (Quelle: Studierendenservice, C. Seele)](img/screenshot_prozess_bachelorarbeit.png){width="80%"}
+
+::: notes
+Es lassen sich grob drei Phasen identifizieren:
+
+-   Vorbereitung: Finden von Betreuer:innen, Abstimmung Thema, Antrag auf Zulassung stellen
+-   Durchführung: Bearbeitung der Aufgabe, Erstellen des Berichts
+-   Abgabe Bachelorarbeit und Eigenständigkeitserklärung
+:::
+
+
 ## Vorbereitung
 
 ### Wie finde ich ein Thema und Betreuer:innen?
@@ -82,38 +96,47 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 -   Eigeninitiative, Initiativbewerbung
 -   "Frag den Prof": Ordnen Sie Ihr Interessengebiet dem Arbeitsgebiet zu und sprechen Sie die
     passenden Dozenten:innen rechtzeitig an
--   Mint-Mentoring [[@MintMentoring] ([Details siehe Folie zum Mint-Mentoring](faq_praxisphase.md#detailsmint))]{.notes}
--   Stellenanzeigen (Internet, Zeitungen, HSBI-Stellenportal[ [@Stellenportal]]{.notes}, Schwarze Bretter)
+-   Mint-Mentoring [[@MintMentoring] (Details siehe Abschnitt zum Mint-Mentoring)]{.notes}
+-   Stellenanzeigen (Internet, Zeitungen, Aushänge, HSBI-Stellenportal [[@Stellenportal]]{.notes})
 
 ### Wie starte ich in meine Bachelorarbeit?
 
-![Zeitlicher Ablauf Bachelorarbeit](img/screenshot_prozess_bachelorarbeit.png){width="80%"}
-
-::: notes
 1.  Kontakt mit gewünschter Firma oder Labor bzw. Forschungsprojekt aufnehmen, ggf.
     Bewerbungsprozess durchlaufen
 
 2.  Kontakt mit potentieller Betreuer:in/Erstprüfer:in in der HSBI (Dozent:in) aufnehmen
+
+    ::: notes
     -   Gute Chancen: Thema passt zum Arbeits-/Forschungsgebiet der Betreuer:in
     -   Gute Chancen: Sie kümmern sich frühzeitig (die Zeitbudgets für die Betreuung sind
         begrenzt)
+    :::
 
 3.  Ggf. Zweitprüfer:in an HSBI (Dozent:in) suchen (i.d.R. nur bei internen Arbeiten)
 
 4.  Abstimmung bzgl. des Themas zwischen Erst- und Zweitprüfer:innen und Kandidat:in
+
+    ::: notes
     -   Erstellen Sie ein Exposé (PDF, 1-3 Seiten): Problem, Ausgangspunkt, Ziel, wichtige
         Meilensteine, relevante Methoden und Technologien, grober Zeitplan, Risiken
     -   Organisieren Sie die Abstimmung
+    :::
 
 5.  Antrag auf Zulassung zur Bachelorarbeit [@AntragBA] ausfüllen, Unterschrift Zweitprüfer:in
     einholen und an Erstprüfer:in schicken (als PDF per Mail)
+
+    ::: notes
     -   Bitte das PDF am Rechner ausfüllen (nicht handschriftlich)
     -   Den Antrag selbst unterschreiben
     -   Den Antrag von Zweitprüfer:in unterschreiben lassen
     -   Den Antrag als PDF an Erstprüfer:in mailen
     -   Erstprüfer:in unterschreibt und leitet den Antrag an den Studierendenservice weiter
     -   Bei Genehmigung erscheint nach bis zu zwei Wochen ein entsprechender Eintrag im LSF
+    :::
 
+\smallskip
+
+::: notes
 **Hinweise**:
 
 -   Sie müssen sich selbst um Erst- und Zweitprüfer:innen und die Abstimmung des Themas bemühen. Oft
@@ -130,7 +153,7 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 ::: notes
 ### Voraussetzungen für die Anmeldung der Bachelorarbeit
 
--   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA18{} §10 (1)]
+-   Sie haben die Modulprüfungen bis auf vier bestanden [vgl. @SPO-BA23{} §23]
 -   Sie haben eine Person aus dem Kreis der Dozent:innen im Studiengang gefunden, die bereit ist,
     Ihre Bachelorarbeit zu betreuen ("HSBI-interne Betreuer:in") und die Rolle der Erstprüfer:in zu
     übernehmen
@@ -146,13 +169,14 @@ In der Regel sind die Prüfer:innen auch gleichzeitig die Betreuer:innen.
 ### Bemerkungen zum Start der Bachelorarbeit
 
 -   Bearbeitungszeitraum der Bachelorarbeit nicht an Vorlesungszeiten gebunden
--   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA18{} §24; @SPO-BA23{} §23]]{.notes}
+-   Beachten Sie die Fortschrittsregelung [[vgl. @SPO-BA23{} §23]]{.notes}
 -   Beginn nicht frei wählbar: Die Bearbeitungszeit beginnt, sobald [der]{.notes} Antrag
     angenommen wurde
 -   Bachelorarbeit und Praxisphase können nicht gleichzeitig/parallel
     durchgeführt/bearbeitet werden [(Sie können die Bachelorarbeit aber in der 6-wöchigen
     Abgabefrist für den Praxisphasenbericht beantragen und beginnen.)]{.notes}
 :::
+
 
 ## Während der Arbeit
 
@@ -166,11 +190,11 @@ den Stand der Arbeiten zu informieren!
 ### Aufbau der Arbeit? Gibt es eine Vorlage?
 
 -   Anforderungen gemäß Studiengangsprüfungsordnung: Seitenumfang 30 bis 80 Seiten
-    [[@SPO-BA18{} §23 (2); @SPO-BA23{} §22 (2)]]{.notes}
+    [[@SPO-BA23{} §22 (2)]]{.notes}
 
     ::: notes
     Es zählen nur die reinen Textseiten. Etwaige Titelseiten, Verzeichnisse und Anhänge zählen hier
-    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA18{} §9 (1); @SPO-BA23{} §9].
+    nicht mit. Eine Seite hat zwischen 300 und 400 Wörter [vgl. @SPO-BA23{} §9].
 
     Benutzen Sie Standardeinstellungen bzgl. Schriftgröße, Seitenränder und Zeilenabstände.
     Sprechen Sie dies mit Ihren Prüfer:innen ab!
@@ -200,7 +224,7 @@ den Stand der Arbeiten zu informieren!
     Dies bietet mehrere Vorteile:
     -   Typische Gliederung ist bereits eingebaut
     -   Hinweise zu typischen Umfängen als Kommentar in den Beispieldateien vorhanden
-    -   Schreiben der Arbeit in Markdown und Übersetzung mit Pandoc+LaTeX+auswählbarem Style
+    -   Schreiben der Arbeit in Markdown und Übersetzung mit Pandoc + LaTeX + auswählbarem Style
         nach PDF (Toolchain wird als Docker-Container bereitgestellt)
     :::
 
@@ -213,11 +237,12 @@ den Stand der Arbeiten zu informieren!
 
 **Wichtig**: Besprechen Sie dies rechtzeitig mit den beiden Prüfer:innen!
 
+
 ## Abgabe
 
 ### Abgabe: Was muss ich hinterher einreichen?
 
--   Formale Abgabe: Online über "Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
+-   Formale Abgabe: Online über "HSBI.de > Studium > Studium organisieren > Einreichung von schriftlichen Arbeiten" [[@EinreichungBA]]{.notes}
     -   Schriftliche Ausarbeitung (30 bis 80 Seiten) als PDF
     -   Unterschriebene Eigenständigkeitserklärung [[@EigenSperrBA]]{.notes} im PDF
 
@@ -235,7 +260,7 @@ bewahren Sie diese Mail auf.
 Achten Sie darauf, dass Sie eine unterschriebene Eigenständigkeitserklärung [@EigenSperrBA]
 in der Arbeit (PDF) unterbringen müssen.
 
-In der alten Prüfungsordnung steht noch, dass Sie fristgerecht zwei ausgedruckte
+In den älteren Prüfungsordnungen steht noch, dass Sie fristgerecht zwei ausgedruckte
 und gebundene Exemplare beim Studierendenservice einreichen müssen und die
 Online-Abgabe lediglich _zusätzlich_ erfolgt [vgl. @SPO-BA18{} §26]. Die gelebte
 Praxis ist aber, dass Sie nur ein PDF online abgeben.
@@ -288,6 +313,7 @@ Wert überschreitet, wird noch eine dritte Prüfer:in hinzugezogen.
 Sprechen Sie rechtzeitig mit Ihren Betreuer:innen über mögliche individuelle Anforderungen.
 :::
 
+
 ## Sonstige Hinweise
 
 ### Verlängerung der Bearbeitungszeit in Ausnahmefällen
@@ -314,6 +340,7 @@ Nachteilsausgleich beantragen
 ::: notes
 Siehe [FAQ zum Nachteilsausgleich](faq_nachteilsausgleich.md)
 :::
+
 
 ::: slides
 * * * * *
