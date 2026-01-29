@@ -219,7 +219,7 @@ In den älteren Prüfungsordnungen steht noch, dass Sie fristgerecht zwei ausged
 und gebundene Exemplare beim Studierendenservice einreichen müssen und die
 Online-Abgabe lediglich *zusätzlich* erfolgt vgl. [\[10\]](#ref-SPO-BA18) §26. Die gelebte
 Praxis ist aber, dass Sie nur ein PDF online abgeben.
-**Besprechen Sie dies bitte rechtzeitig von Abgabe mit Ihrer Erstprüfer:in!**
+**Besprechen Sie dies bitte rechtzeitig vor der Abgabe mit Ihrer Erstprüfer:in!**
 In der neuen Prüfungsordnung findet sich nur noch die elektronische Abgabe
 [\[2\]](#ref-SPO-BA23) §25.
 
